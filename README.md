@@ -9,12 +9,12 @@ $ docker-compose up
 ```
 View the site here: `http://0.0.0.0:4000`
 # Build locally
-First install Jekyll according to [these instructions](https://jekyllrb.com/docs/installation/).
+First install Jekyll according to [these instructions](https://jekyllrb.com/docs/installation/). Navigate to a folder of your preference and then:
 ```bash
-$ git clone https://github.com/castacks/website-dev
-$ cd website-dev
+$ git clone https://github.com/ShredLabCMU/shredlabcmu.github.io.git website
+$ cd website
 $ bundle install
-$ bundle exec jekyll serve --watch --incremental
+$ bundle exec jekyll serve --watch --port 4001 --force-polling
 ```
 This should start the web server locally, and enables incremental build.
 
@@ -24,3 +24,8 @@ Adding your profile is very simple. First follow the instructions above and laun
 # Adding your publication
 Edit the `_bibliography/references.bib` file to add your bibtex and commit to `master`.
 
+# To submit once you are done
+```bash
+$ git add . 
+$ git push origin master
+```
