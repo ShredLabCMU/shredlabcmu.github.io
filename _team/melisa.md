@@ -4,7 +4,7 @@ subtitle: Assistant Professor
 job_title: Assistant Research
 category: lab_head
 layout: team_member_personal_page
-image: /img/team/Melisa_sq.png
+image: /img/team/Melisa_640x480_noremove.png
 ---
 
 
@@ -13,6 +13,6 @@ I am an Assistant Professor in the Robotics Institute at Carnegie Mellon Univers
 My research combines the areas of robotics, haptics, human-computer interaction, and education. My main areas of focus and interest are developing low-cost, open-source robotic technology for educational applications and understanding the effects of this technology on learning; as well as studying the sense of touch and developing novel mechanisms for human-machine interaction.
 
 ## Email ## 
-mortamar@andrew.cmu.edu
+[mortamar@andrew.cmu.edu](mailto:mortamar@andrew.cmu.edu)
 
 
