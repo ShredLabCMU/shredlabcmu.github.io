@@ -23,14 +23,11 @@ The Haptic Guidance Robot project researches human-robot interaction through the
 
 [comment]: <> {% youtube hrlpgeTy-0g %}
 
-### Publications
-Pending
-
 
 <figure>
     <img src="/img/posts/2022-03-07-haptic-guidance/Robot_render.JPG" />
     <figcaption>
-        Robot.
+        Robot Rendering.
     </figcaption>
 </figure>
 
@@ -43,4 +40,4 @@ Pending
 <br/>
 
 ### Contact
-- Melisa Orta Martinez (https://ri.cmu.edu) - (mortamar [at] andrew [dot] cmu [dot] edu)
+- [Abena Boadi-Agyemang](https:shredlabcmu.github.io/team/abena) - [abodiag@andrew.cmu.edu](mailto:abodiag@andrew.cmu.edu) 

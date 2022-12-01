@@ -40,5 +40,4 @@ Pending
 <br/>
 
 ### Contact
-- [Sarah Costrell (MechE)](https://ri.cmu.edu) (mail [at] cmu [dot] edu) 
-- Melisa Orta Martinez (https://ri.cmu.edu) - (mortamar [at] andrew [dot] cmu [dot] edu)
+- Sarah Costrell (MechE) [(scostrel@andrew.cmu.edu)](mailto:scostrel@andrew.cmu.edu)
