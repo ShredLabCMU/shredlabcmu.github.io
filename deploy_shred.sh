@@ -3,7 +3,10 @@ git checkout master
 
 # delete your build folder
 rm -rf _site/
-rm -rf node_modules/.cache/gh-pages/
+
+#remove any old gh-pages branches
+git worktree prune
+
 # create a 'build' directory checked out to the gh-pages branch
 git worktree add -B gh-pages _site origin/gh-pages
 
