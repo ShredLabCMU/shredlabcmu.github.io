@@ -23,6 +23,12 @@ if [ "$current_branch" != "gh-pages" ]; then
   exit 1
 fi
 
+# Check which branch you are on
+echo $current_branch #this should be gh-pages
+
 # commit and push to gh-pages
 git add . && git commit -m "Update gh-pages"
 git push
+
+# cd back to master branch
+cd ..
