@@ -1,5 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shredlabcmu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shredlabcmu.github.io/" rel="alternate" type="text/html" /><updated>2023-09-06T16:07:54-04:00</updated><id>https://shredlabcmu.github.io/feed.xml</id><title type="html">SHREDLab</title><subtitle>Researching haptic technologies with social and educational impact at Carnegie Mellon University
-</subtitle><entry><title type="html">RoboLoom: Teach math through weaving</title><link href="https://shredlabcmu.github.io/roboloom/" rel="alternate" type="text/html" title="RoboLoom: Teach math through weaving" /><published>2022-05-20T06:40:07-04:00</published><updated>2022-05-20T06:40:07-04:00</updated><id>https://shredlabcmu.github.io/roboloom</id><content type="html" xml:base="https://shredlabcmu.github.io/roboloom/">&lt;p&gt;RoboLoom is a project to design, build, and deploy a robotic fully jacquard loom that has software interfaces to aid in teaching matrix math through weaving.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shredlabcmu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shredlabcmu.github.io/" rel="alternate" type="text/html" /><updated>2023-09-29T17:48:44-04:00</updated><id>https://shredlabcmu.github.io/feed.xml</id><title type="html">SHREDLab</title><subtitle>Researching haptic technologies with social and educational impact at Carnegie Mellon University
+</subtitle><entry><title type="html">HazelWood Workshop</title><link href="https://shredlabcmu.github.io/hazelwood/" rel="alternate" type="text/html" title="HazelWood Workshop" /><published>2023-09-29T08:00:00-04:00</published><updated>2023-09-29T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/Hazelwood</id><content type="html" xml:base="https://shredlabcmu.github.io/hazelwood/">&lt;p&gt;Thanks to the Build Back Better federal grant awarded to the South-Western
+Pennsylvania Region and collaboration with the Regional Industrial Development Corporation
+(RIDC)- Carnegie Mellon University has recently announced the renovation of an old steel mill,
+Mill 19, into a new $150 million robotics manufacturing facility in the heart of the Hazelwood
+community. In response to this new construction, the Social Haptics Robotics and Education
+(SHRED) Laboratory is supporting local Hazelwood youth through a community workshop series
+called the Art of Sound. We are motivated to preserve existing community members’ sense of
+belonging by installing multiple art pieces that describe the stories and experiences of those
+local to the region.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-it-about&quot;&gt;What is it about?&lt;/h2&gt;
+&lt;p&gt;In this active monthly workshop series, we guide middle-school and early high school
+students in constructing five distinct interactive artwork installations. These five paintings
+utilize capacitive touch technology to play various noises and sounds, correlating to each
+painting’s unique theme. In conversation with the community stakeholders prior to this work,
+they outlined the local Hazelwood library, coffeeshop, and family support center as the most
+impactful locations to display their youth’s hard work. With the support of local artist Edith
+Abeyta and singer Erika Johnson, we aim to leverage an interdisciplinary approach to support
+their sustained engagement with STEM learning. This work contributes to the over-arching
+research of the SHRED Lab’s community outreach personnel Will Scott, whose research focuses
+on decentering educational technology from its colonial heritage by leveraging historically
+“feminized” practices from artistic and craft-based disciplines. This series will run for from the
+Fall 2023 and Spring 2024 semesters.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2023-09-29-hazelwood-center/group.jpg&quot; /&gt;
+    &lt;figcaption&gt;
+        Students working at the Hazelwood library.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/team/will/&quot;&gt;William Scott&lt;/a&gt; &amp;lt;wscott2 [at] cmu [dot] edu&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>William Scott</name></author><category term="research" /><category term="highlights" /><summary type="html">Thanks to the Build Back Better federal grant awarded to the South-Western Pennsylvania Region and collaboration with the Regional Industrial Development Corporation (RIDC)- Carnegie Mellon University has recently announced the renovation of an old steel mill, Mill 19, into a new $150 million robotics manufacturing facility in the heart of the Hazelwood community. In response to this new construction, the Social Haptics Robotics and Education (SHRED) Laboratory is supporting local Hazelwood youth through a community workshop series called the Art of Sound. We are motivated to preserve existing community members’ sense of belonging by installing multiple art pieces that describe the stories and experiences of those local to the region.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2023-09-29-hazelwood-center/group.jpg" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2023-09-29-hazelwood-center/group.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">RoboLoom: Teach math through weaving</title><link href="https://shredlabcmu.github.io/roboloom/" rel="alternate" type="text/html" title="RoboLoom: Teach math through weaving" /><published>2022-05-20T06:40:07-04:00</published><updated>2022-05-20T06:40:07-04:00</updated><id>https://shredlabcmu.github.io/roboloom</id><content type="html" xml:base="https://shredlabcmu.github.io/roboloom/">&lt;p&gt;RoboLoom is a project to design, build, and deploy a robotic fully jacquard loom that has software interfaces to aid in teaching matrix math through weaving.&lt;/p&gt;
 
 &lt;p&gt;Most people don’t know how closely related computers, matrices, and the craft of weaving are, but weaving patterns and early loom designs inspired some of early computing and matrices. For today’s looms and computers there is still a connection. Matrices can describe how a loom is threaded, and what actions are taken each time step while weaving. These matrices can then be multiplied together resulting in a cloth’s pattern. Designing and optimizing these matrices can be explored as a computational problem in a crafting framework. RoboLoom aims to explore this and bring weaving and matrix math together in new and interesting ways.&lt;/p&gt;
 

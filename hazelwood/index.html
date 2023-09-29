@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>SHRED LAB - SHREDLab</title>
+    <title>HazelWood Workshop - SHREDLab</title>
     
     <link rel="stylesheet" href="/assets/css/app.css">
 
@@ -25,22 +25,47 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   
+  <!-- Include the standard DataTables bits -->
+  <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
+  <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
+  <script>
+    $(document).ready(function () {
+      $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+      $('table.display').DataTable({
+        paging: false,
+        stateSave: true,
+        searching: true
+      });
+    });
+  </script>
+  
+  
+    <script>
+      $(document).ready(function () {
+          $('.content a').attr({'target':'_blank', 'rel':'noopener noreferrer'});
+        });
+    </script>
   
 
     <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>SHRED LAB | SHREDLab</title>
+<title>HazelWood Workshop | SHREDLab</title>
 <meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="SHRED LAB" />
+<meta property="og:title" content="HazelWood Workshop" />
+<meta name="author" content="William Scott" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Researching haptic technologies with social and educational impact at Carnegie Mellon University" />
-<meta property="og:description" content="Researching haptic technologies with social and educational impact at Carnegie Mellon University" />
-<link rel="canonical" href="https://shredlabcmu.github.io/" />
-<meta property="og:url" content="https://shredlabcmu.github.io/" />
+<meta name="description" content="Monthly Workshop" />
+<meta property="og:description" content="Monthly Workshop" />
+<link rel="canonical" href="https://shredlabcmu.github.io/hazelwood/" />
+<meta property="og:url" content="https://shredlabcmu.github.io/hazelwood/" />
 <meta property="og:site_name" content="SHREDLab" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="SHRED LAB" />
+<meta property="og:image" content="https://shredlabcmu.github.io/img/posts/2023-09-29-hazelwood-center/group.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-09-29T08:00:00-04:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://shredlabcmu.github.io/img/posts/2023-09-29-hazelwood-center/group.jpg" />
+<meta property="twitter:title" content="HazelWood Workshop" />
 <script type="application/ld+json">
-{"headline":"SHRED LAB","@type":"WebSite","url":"https://shredlabcmu.github.io/","description":"Researching haptic technologies with social and educational impact at Carnegie Mellon University","name":"SHREDLab","@context":"https://schema.org"}</script>
+{"image":"https://shredlabcmu.github.io/img/posts/2023-09-29-hazelwood-center/group.jpg","headline":"HazelWood Workshop","dateModified":"2023-09-29T08:00:00-04:00","datePublished":"2023-09-29T08:00:00-04:00","@type":"BlogPosting","url":"https://shredlabcmu.github.io/hazelwood/","mainEntityOfPage":{"@type":"WebPage","@id":"https://shredlabcmu.github.io/hazelwood/"},"description":"Monthly Workshop","author":{"@type":"Person","name":"William Scott"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QTXQRRYTJ5"></script>
 <script>
@@ -73,7 +98,7 @@
         </div>
         <div class="navbar-menu" id="navMenu">
             <div class="navbar-start">
-                <a href="/" class="navbar-item is-active">Home</a>
+                <a href="/" class="navbar-item ">Home</a>
                 
                 
                     
@@ -97,19 +122,15 @@
         </div>
     </div>
 </nav>
-  <section class="hero  is-large  is-bold is-primary"  style="background: linear-gradient(180deg, rgba(204,0,44,.1),rgba(204,0,44,0)), url('/img/homepage_slideshow.gif') no-repeat center center; background-size: cover;" >
+  <section class="hero  is-medium  is-bold is-primary" >
     <div class="hero-body">
         <div class="container">
             
-                <p class="title is-2">SHRED LAB</p>
-                <p class="subtitle is-3">Social Haptics, Robotics and Education Laboratory</p>
+                <p class="title is-2">HazelWood Workshop</p>
+                <p class="subtitle is-3"></p>
                 <p class="subtitle is-3">
             
             
-                <a href="/research/" class="button is-info is-large">See Our Research</a>
-            
-            
-                <a href="/current-members/" class="button is-info is-large">See Our Team</a>
             
         </p>
         </div>
@@ -137,23 +158,151 @@
                 
 
                 
-                <div class="column is-12">
+                <div class="column is-8">
                       
+	
+
+
+<!-- Figure out the relative link to the author -->
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
 <div class="content">
-    <h1 id="about-us">About Us</h1>
-<p>Making haptics and robotics to improve Education and Wellbeing.</p>
 
-<p>We are proud to be part of the <a href="https://www.ri.cmu.edu/">Robotics Institute</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.</p>
+    <p><div style="font-size: 13px">Published: 
+		<time datetime="2023-09-29T08:00:00-04:00">Sep 29, 2023</time> by 
+		<div style="font-weight: bold; color: #3399ff; display: inline">
+		
+			William Scott
+		
+		</div>
+	</div></p>
 
-<h1 id="highlights">Highlights</h1>
+    <h1>HazelWood Workshop</h1>
+
+    <p>Thanks to the Build Back Better federal grant awarded to the South-Western
+Pennsylvania Region and collaboration with the Regional Industrial Development Corporation
+(RIDC)- Carnegie Mellon University has recently announced the renovation of an old steel mill,
+Mill 19, into a new $150 million robotics manufacturing facility in the heart of the Hazelwood
+community. In response to this new construction, the Social Haptics Robotics and Education
+(SHRED) Laboratory is supporting local Hazelwood youth through a community workshop series
+called the Art of Sound. We are motivated to preserve existing community members’ sense of
+belonging by installing multiple art pieces that describe the stories and experiences of those
+local to the region.</p>
+
+<h2 id="what-is-it-about">What is it about?</h2>
+<p>In this active monthly workshop series, we guide middle-school and early high school
+students in constructing five distinct interactive artwork installations. These five paintings
+utilize capacitive touch technology to play various noises and sounds, correlating to each
+painting’s unique theme. In conversation with the community stakeholders prior to this work,
+they outlined the local Hazelwood library, coffeeshop, and family support center as the most
+impactful locations to display their youth’s hard work. With the support of local artist Edith
+Abeyta and singer Erika Johnson, we aim to leverage an interdisciplinary approach to support
+their sustained engagement with STEM learning. This work contributes to the over-arching
+research of the SHRED Lab’s community outreach personnel Will Scott, whose research focuses
+on decentering educational technology from its colonial heritage by leveraging historically
+“feminized” practices from artistic and craft-based disciplines. This series will run for from the
+Fall 2023 and Spring 2024 semesters.</p>
+
+<figure>
+    <img src="/img/posts/2023-09-29-hazelwood-center/group.jpg" />
+    <figcaption>
+        Students working at the Hazelwood library.
+    </figcaption>
+</figure>
+
+<h2 id="contact">Contact</h2>
+
+<ul>
+  <li><a href="/team/will/">William Scott</a> &lt;wscott2 [at] cmu [dot] edu&gt;</li>
+</ul>
+
+</div>
+
+<div class="tags">
+    
+</div>
+
+
+  
+
+
+                </div>
+                
+                <div class="column is-4-desktop is-12-tablet">
+                    <p class="title is-4">Latest Research</p>
+
 <div class="columns is-multiline">
     
-    <div class="column is-4-desktop is-6-tablet">
+    <div class="column is-12">
         <a href="/hazelwood/">
 <div class="card" style="height: 100%; display: flex; flex-direction: column; align-items: center;">
     
         <div style="height: 200px;">
-            <img src="/img/posts/2023-09-29-hazelwood-center/group.jpg" alt="HazelWood Workshop" style="object-fit: contain; height: 100%;" />
+            <img src="/img/posts/2023-09-29-hazelwood-center/group.jpg" alt="HazelWood Workshop" style="object-fit: contain; height: 100%;">
         </div>
     
     <div class="card-content" style="flex-grow: 3;">
@@ -172,10 +321,59 @@
 
     </div>
     
+    <div class="column is-12">
+        <a href="/soft/">
+<div class="card" style="height: 100%; display: flex; flex-direction: column; align-items: center;">
+    
+        <div style="height: 200px;">
+            <img src="/img/posts/2022-11-08-soft-magnetic-actuators/fingertipandmagnet.jpg" alt="Soft Magnetic Actuator" style="object-fit: contain; height: 100%;">
+        </div>
+    
+    <div class="card-content" style="flex-grow: 3;">
+        <div class="content">
+            
+            <div class="title is-5">Soft Magnetic Actuator</div>
+            
+            <p>Soft Magnetic Actuator for Haptics.</p>
+        </div>
+    </div>
+    <footer class="card-footer">
+        <p class="card-footer-item">Published: May 20, 2022</p>
+    </footer>
+</div>
+</a>
+
+    </div>
+    
+    <div class="column is-12">
+        <a href="/guidance/">
+<div class="card" style="height: 100%; display: flex; flex-direction: column; align-items: center;">
+    
+        <div style="height: 200px;">
+            <img src="/img/posts/2022-03-07-haptic-guidance/Robot_render.JPG" alt="Haptic Guidance Robot" style="object-fit: contain; height: 100%;">
+        </div>
+    
+    <div class="card-content" style="flex-grow: 3;">
+        <div class="content">
+            
+            <div class="title is-5">Haptic Guidance Robot</div>
+            
+            <p>Haptic Guidance Robot</p>
+        </div>
+    </div>
+    <footer class="card-footer">
+        <p class="card-footer-item">Published: May 20, 2022</p>
+    </footer>
+</div>
+</a>
+
+    </div>
+    
 </div>
 
 
-</div>
+
+
                 </div>
                 
             </div>
@@ -273,7 +471,7 @@
           <div id="block3"><img src="/img/riLogo2019.svg" alt="RI Logo" style="float: right;"></div>
         </div>
         <!-- <div>
-          <a href="/research/" class="button is-large"><div class="icon"><i class="fab fa-facebook"</i></div></a>
+          <a href="" class="button is-large"><div class="icon"><i class="fab fa-facebook"</i></div></a>
         </div> -->
         <!-- <div class="content is-small has-text-centered">
             <p class="">© 2020</p>
