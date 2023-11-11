@@ -11,9 +11,9 @@ git worktree prune
 git worktree add -B gh-pages _site origin/gh-pages
 
 # build the project
-# bundle exec jekyll build
+bundle exec jekyll build
 # To watch the webpage locally, run bundle exec jekyll serve --watch
-bundle exec jekyll serve --watch --port 4001 --force-polling
+# bundle exec jekyll serve --watch --port 4001 --force-polling
 
 # cd into 'build' folder, which is now on the gh-pages branch
 cd _site
