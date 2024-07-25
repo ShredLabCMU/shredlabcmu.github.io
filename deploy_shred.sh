@@ -32,5 +32,5 @@ echo $current_branch #this should be gh-pages
 git add . && git commit -m "Update gh-pages"
 git push
 
-# cd back to master branch
+# cd back to base folder
 cd ..

@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>SHRED LAB - SHREDLab</title>
+    <title>Air Quality Monitoring Community Workshop - SHREDLab</title>
     
     <link rel="stylesheet" href="/assets/css/app.css">
 
@@ -25,22 +25,47 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   
+  <!-- Include the standard DataTables bits -->
+  <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
+  <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
+  <script>
+    $(document).ready(function () {
+      $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+      $('table.display').DataTable({
+        paging: false,
+        stateSave: true,
+        searching: true
+      });
+    });
+  </script>
+  
+  
+    <script>
+      $(document).ready(function () {
+          $('.content a').attr({'target':'_blank', 'rel':'noopener noreferrer'});
+        });
+    </script>
   
 
     <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>SHRED LAB | SHREDLab</title>
+<title>Air Quality Monitoring Community Workshop | SHREDLab</title>
 <meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="SHRED LAB" />
+<meta property="og:title" content="Air Quality Monitoring Community Workshop" />
+<meta name="author" content="William Scott" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Researching haptic technologies with social and educational impact at Carnegie Mellon University" />
-<meta property="og:description" content="Researching haptic technologies with social and educational impact at Carnegie Mellon University" />
-<link rel="canonical" href="http://localhost:4001/" />
-<meta property="og:url" content="http://localhost:4001/" />
+<meta name="description" content="Workshop" />
+<meta property="og:description" content="Workshop" />
+<link rel="canonical" href="http://localhost:4001/air-quality/" />
+<meta property="og:url" content="http://localhost:4001/air-quality/" />
 <meta property="og:site_name" content="SHREDLab" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="SHRED LAB" />
+<meta property="og:image" content="http://localhost:4001/img/posts/2024-07-25-airquality/KIMG1208.JPG" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-25T08:00:00-04:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://localhost:4001/img/posts/2024-07-25-airquality/KIMG1208.JPG" />
+<meta property="twitter:title" content="Air Quality Monitoring Community Workshop" />
 <script type="application/ld+json">
-{"headline":"SHRED LAB","@type":"WebSite","url":"http://localhost:4001/","description":"Researching haptic technologies with social and educational impact at Carnegie Mellon University","name":"SHREDLab","@context":"https://schema.org"}</script>
+{"image":"http://localhost:4001/img/posts/2024-07-25-airquality/KIMG1208.JPG","headline":"Air Quality Monitoring Community Workshop","dateModified":"2024-07-25T08:00:00-04:00","datePublished":"2024-07-25T08:00:00-04:00","@type":"BlogPosting","url":"http://localhost:4001/air-quality/","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4001/air-quality/"},"description":"Workshop","author":{"@type":"Person","name":"William Scott"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QTXQRRYTJ5"></script>
 <script>
@@ -73,7 +98,7 @@
         </div>
         <div class="navbar-menu" id="navMenu">
             <div class="navbar-start">
-                <a href="/" class="navbar-item is-active">Home</a>
+                <a href="/" class="navbar-item ">Home</a>
                 
                 
                     
@@ -97,19 +122,15 @@
         </div>
     </div>
 </nav>
-  <section class="hero  is-large  is-bold is-primary"  style="background: linear-gradient(180deg, rgba(204,0,44,.1),rgba(204,0,44,0)), url('/img/homepage_slideshow.gif') no-repeat center center; background-size: cover;" >
+  <section class="hero  is-medium  is-bold is-primary" >
     <div class="hero-body">
         <div class="container">
             
-                <p class="title is-2">SHRED LAB</p>
-                <p class="subtitle is-3">Social Haptics, Robotics and Education Laboratory</p>
+                <p class="title is-2">Air Quality Monitoring Community Workshop</p>
+                <p class="subtitle is-3"></p>
                 <p class="subtitle is-3">
             
             
-                <a href="/research/" class="button is-info is-large">See Our Research</a>
-            
-            
-                <a href="/current-members/" class="button is-info is-large">See Our Team</a>
             
         </p>
         </div>
@@ -137,23 +158,140 @@
                 
 
                 
-                <div class="column is-12">
+                <div class="column is-8">
                       
+	
+
+
+<!-- Figure out the relative link to the author -->
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
 <div class="content">
-    <h1 id="about-us">About Us</h1>
-<p>Making haptics and robotics to improve Education and Wellbeing.</p>
 
-<p>We are proud to be part of the <a href="https://www.ri.cmu.edu/">Robotics Institute</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.</p>
+    <p><div style="font-size: 13px">Published: 
+		<time datetime="2024-07-25T08:00:00-04:00">Jul 25, 2024</time> by 
+		<div style="font-weight: bold; color: #3399ff; display: inline">
+		
+			William Scott
+		
+		</div>
+	</div></p>
 
-<h1 id="highlights">Highlights</h1>
+    <h1>Air Quality Monitoring Community Workshop</h1>
+
+    <h1 id="air-quality-monitoring">Air Quality Monitoring</h1>
+
+<figure>
+    <img src="/img/posts/2024-07-25-airquality/KIMG1208.JPG" />
+    <figcaption>
+        Lab members working with the community.
+    </figcaption>
+</figure>
+
+<h2 id="motivation">Motivation</h2>
+<p>We understand the city of Pittsburgh along with the greater Pittsburgh area has historically suffered from poor/hazardous air quality conditions, stemming from the prolific rise and fall of the US steel industry. However, despite previous economic initiatives to rectify the air quality of the region, we acknowledge the active ongoing harm to our neighborhood communities by the U.S. Steel facilities known as the Clairton Coke Works and the Irvin and Edgar Thomson steel mills [1]. We are motivated to empower our youth to learn fundamental engineering and software concepts to develop a cluster of air-quality monitoring units to better assess, record, and understand their built environment to make more informed decisions on their health and safety.
+[1] Douglas H. Phelps, President and Executive Director, Phelps, D. H., &amp; Director, P. and E. (2024, January 29). Cleaner Air in Steel City. The Public Interest Network. <a href="https://publicinterestnetwork.org/articles/cleaner-air-in-steel-city/">https://publicinterestnetwork.org/articles/cleaner-air-in-steel-city/</a></p>
+
+<figure>
+    <img src="/img/posts/2024-07-25-airquality/KIMG1211.JPG" />
+    <figcaption>
+        Our lab head, Melisa, helping out a community member.
+    </figcaption>
+</figure>
+
+<h2 id="contact">Contact</h2>
+
+<ul>
+  <li><a href="/team/will/">William Scott</a> &lt;wscott2 [at] cmu [dot] edu&gt;</li>
+</ul>
+
+</div>
+
+<div class="tags">
+    
+</div>
+
+
+  
+
+
+                </div>
+                
+                <div class="column is-4-desktop is-12-tablet">
+                    <p class="title is-4">Latest Research</p>
+
 <div class="columns is-multiline">
     
-    <div class="column is-4-desktop is-6-tablet">
+    <div class="column is-12">
         <a href="/air-quality/">
 <div class="card" style="height: 100%; display: flex; flex-direction: column; align-items: center;">
     
         <div style="height: 200px;">
-            <img src="/img/posts/2024-07-25-airquality/KIMG1208.JPG" alt="Air Quality Monitoring Community Workshop" style="object-fit: contain; height: 100%;" />
+            <img src="/img/posts/2024-07-25-airquality/KIMG1208.JPG" alt="Air Quality Monitoring Community Workshop" style="object-fit: contain; height: 100%;">
         </div>
     
     <div class="card-content" style="flex-grow: 3;">
@@ -172,12 +310,12 @@
 
     </div>
     
-    <div class="column is-4-desktop is-6-tablet">
+    <div class="column is-12">
         <a href="/hazelwood/">
 <div class="card" style="height: 100%; display: flex; flex-direction: column; align-items: center;">
     
         <div style="height: 200px;">
-            <img src="/img/posts/2023-09-29-hazelwood-center/group.jpg" alt="HazelWood Workshop" style="object-fit: contain; height: 100%;" />
+            <img src="/img/posts/2023-09-29-hazelwood-center/group.jpg" alt="HazelWood Workshop" style="object-fit: contain; height: 100%;">
         </div>
     
     <div class="card-content" style="flex-grow: 3;">
@@ -196,10 +334,35 @@
 
     </div>
     
+    <div class="column is-12">
+        <a href="/soft/">
+<div class="card" style="height: 100%; display: flex; flex-direction: column; align-items: center;">
+    
+        <div style="height: 200px;">
+            <img src="/img/posts/2022-11-08-soft-magnetic-actuators/fingertipandmagnet.jpg" alt="Soft Magnetic Actuator" style="object-fit: contain; height: 100%;">
+        </div>
+    
+    <div class="card-content" style="flex-grow: 3;">
+        <div class="content">
+            
+            <div class="title is-5">Soft Magnetic Actuator</div>
+            
+            <p>Soft Magnetic Actuator for Haptics.</p>
+        </div>
+    </div>
+    <footer class="card-footer">
+        <p class="card-footer-item">Published: May 20, 2022</p>
+    </footer>
+</div>
+</a>
+
+    </div>
+    
 </div>
 
 
-</div>
+
+
                 </div>
                 
             </div>
@@ -297,7 +460,7 @@
           <div id="block3"><img src="/img/riLogo2019.svg" alt="RI Logo" style="float: right;"></div>
         </div>
         <!-- <div>
-          <a href="/research/" class="button is-large"><div class="icon"><i class="fab fa-facebook"</i></div></a>
+          <a href="" class="button is-large"><div class="icon"><i class="fab fa-facebook"</i></div></a>
         </div> -->
         <!-- <div class="content is-small has-text-centered">
             <p class="">© 2020</p>

@@ -1,5 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2024-07-25T13:16:38-04:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">SHREDLab</title><subtitle>Researching haptic technologies with social and educational impact at Carnegie Mellon University
-</subtitle><entry><title type="html">HazelWood Workshop</title><link href="http://localhost:4001/hazelwood/" rel="alternate" type="text/html" title="HazelWood Workshop" /><published>2023-09-29T08:00:00-04:00</published><updated>2023-09-29T08:00:00-04:00</updated><id>http://localhost:4001/Hazelwood</id><content type="html" xml:base="http://localhost:4001/hazelwood/">&lt;p&gt;Thanks to the Build Back Better federal grant awarded to the South-Western
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2024-07-25T16:10:05-04:00</updated><id>http://localhost:4001/feed.xml</id><title type="html">SHREDLab</title><subtitle>Researching haptic technologies with social and educational impact at Carnegie Mellon University
+</subtitle><entry><title type="html">Air Quality Monitoring Community Workshop</title><link href="http://localhost:4001/air-quality/" rel="alternate" type="text/html" title="Air Quality Monitoring Community Workshop" /><published>2024-07-25T08:00:00-04:00</published><updated>2024-07-25T08:00:00-04:00</updated><id>http://localhost:4001/airquality</id><content type="html" xml:base="http://localhost:4001/air-quality/">&lt;h1 id=&quot;air-quality-monitoring&quot;&gt;Air Quality Monitoring&lt;/h1&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2024-07-25-airquality/KIMG1208.JPG&quot; /&gt;
+    &lt;figcaption&gt;
+        Lab members working with the community.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;We understand the city of Pittsburgh along with the greater Pittsburgh area has historically suffered from poor/hazardous air quality conditions, stemming from the prolific rise and fall of the US steel industry. However, despite previous economic initiatives to rectify the air quality of the region, we acknowledge the active ongoing harm to our neighborhood communities by the U.S. Steel facilities known as the Clairton Coke Works and the Irvin and Edgar Thomson steel mills [1]. We are motivated to empower our youth to learn fundamental engineering and software concepts to develop a cluster of air-quality monitoring units to better assess, record, and understand their built environment to make more informed decisions on their health and safety.
+[1] Douglas H. Phelps, President and Executive Director, Phelps, D. H., &amp;amp; Director, P. and E. (2024, January 29). Cleaner Air in Steel City. The Public Interest Network. &lt;a href=&quot;https://publicinterestnetwork.org/articles/cleaner-air-in-steel-city/&quot;&gt;https://publicinterestnetwork.org/articles/cleaner-air-in-steel-city/&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2024-07-25-airquality/KIMG1211.JPG&quot; /&gt;
+    &lt;figcaption&gt;
+        Our lab head, Melisa, helping out a community member.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/team/will/&quot;&gt;William Scott&lt;/a&gt; &amp;lt;wscott2 [at] cmu [dot] edu&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>William Scott</name></author><category term="research" /><category term="highlights" /><summary type="html">Air Quality Monitoring</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4001/img/posts/2024-07-25-airquality/KIMG1208.JPG" /><media:content medium="image" url="http://localhost:4001/img/posts/2024-07-25-airquality/KIMG1208.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">HazelWood Workshop</title><link href="http://localhost:4001/hazelwood/" rel="alternate" type="text/html" title="HazelWood Workshop" /><published>2023-09-29T08:00:00-04:00</published><updated>2023-09-29T08:00:00-04:00</updated><id>http://localhost:4001/Hazelwood</id><content type="html" xml:base="http://localhost:4001/hazelwood/">&lt;p&gt;Thanks to the Build Back Better federal grant awarded to the South-Western
 Pennsylvania Region and collaboration with the Regional Industrial Development Corporation
 (RIDC)- Carnegie Mellon University has recently announced the renovation of an old steel mill,
 Mill 19, into a new $150 million robotics manufacturing facility in the heart of the Hazelwood
