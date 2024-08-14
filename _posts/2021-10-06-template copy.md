@@ -19,4 +19,4 @@ Blind and low vision STEM education is hindered by an inability to engage with v
 
 ### Contact
 - [Sarah Costrell (MechE)](https://ri.cmu.edu) (mail [at] cmu [dot] edu) 
-- Melisa Orta Martinez (https://ri.cmu.edu) - (mortamar [at] andrew [dot] cmu [dot] edu)
+- [Melisa Orta Martinez](https://ri.cmu.edu) - (mortamar [at] andrew [dot] cmu [dot] edu)
