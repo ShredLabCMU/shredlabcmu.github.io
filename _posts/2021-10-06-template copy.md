@@ -5,7 +5,7 @@ date: 2021-10-06 12:00:00
 categories: research
 description: "Haptics for blind STEM education"
 author: "SHRED Lab"
-published: true
+published: false
 sidebar:  false
 permalink: /aircode/
 image: /img/posts/2022-05-02-haptic-blind/blind-guide.png
