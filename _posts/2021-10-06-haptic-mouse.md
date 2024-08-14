@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Robot-Mediated haptics for blind students STEM education"
-date: 2021-10-06 12:00:00
+date: 2024-08-14 12:00:00
 categories: research
 description: "Haptics for blind STEM education"
 author: "SHRED Lab"
