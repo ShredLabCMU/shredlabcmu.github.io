@@ -8,9 +8,9 @@ image: /img/team/Iqui_640x480_noremove.png
 link-new-tab: true
 ---
 
-My name is Iqui Balam Heredia Marin (Iqui for short) and I am a Senior Mechatronics Engineering Student at Tecnologico de Monterrey, Campus Monterrey. Im a first year PhD Student.
+My name is Iqui Balam Heredia Marin (Iqui for short) and I am a first year PhD Student.
 
-I was member of RoBorregos ITESM since 2017, where I have had the opportunity to represent Mexico in international competitions. I have also had international and national research intern experiences; I was a Mitacs Globalink Research Intern and member of the RISS 2021 cohort. My main research and extracurricular activities involves Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning and Robotics.
+I was member of RoBorregos ITESM since 2017, where I have had the opportunity to represent Mexico in international competitions. I have also had international and national research intern experiences; I was a Mitacs Globalink Research Intern and member of the RISS 2021 cohort. My main research and extracurricular activities involves Artificial Intelligence, Computer Vision, Deep Learning and; Haptics  and Robotics for Education.
 
 
 

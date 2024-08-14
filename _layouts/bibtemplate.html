@@ -1,9 +1,50 @@
----
----
 <div class="text-justify">
     {{reference}}
     <br />
-<button class="button0"  onclick="toggle{{entry.key  | replace: '-':'' | replace: ':':''}}()">bibtex</button>
+<button class="button0"  onclick="toggleBibtex('{{entry.key | sanitizeKey}}')">bibtex</button>
+
+<script>
+    // Sanitization function to remove or replace invalid characters in keys
+    function sanitizeKey(key) {
+        return key.replace(/[^a-zA-Z0-9]/g, '');
+    }
+
+    function toggleBibtex(sanitizedKey) {
+        var x = document.getElementById('a' + sanitizedKey);
+        if (x.style.display === 'block') {
+            x.style.display = 'none';
+        } else {
+            x.style.display = 'block';
+        }
+    }
+</script>
+
+<button class="button3"  onclick="togglePlainText('{{entry.key | sanitizeKey}}')">plain text</button>
+
+<script>
+    function togglePlainText(sanitizedKey) {
+        var x = document.getElementById('c' + sanitizedKey);
+        if (x.style.display === 'block') {
+            x.style.display = 'none';
+        } else {
+            x.style.display = 'block';
+        }
+    }
+</script>
+{% if entry.abstract %}
+<button class="button3" onclick="toggleAbstract('{{entry.key | sanitizeKey}}')">abstract</button>
+{% endif %}
+
+<script>
+    function toggleAbstract(sanitizedKey) {
+        var x = document.getElementById('b' + sanitizedKey);
+        if (x.style.display === 'block') {
+            x.style.display = 'none';
+        } else {
+            x.style.display = 'block';
+        }
+    }
+</script>
 
 <script>
     function toggle{{entry.key | replace : '-':'' | replace : ':':''}}() {
@@ -18,35 +59,6 @@
 </script>
 
 
-<button class="button3"  onclick="toggle3{{entry.key  | replace: '-':'' | replace: ':':''}}()">plain text</button>
-
-<script>
-    function toggle3{{entry.key | replace : '-':'' | replace : ':':''}}() {
-        var x= document.getElementById('c{{entry.key}}');
-        // console.log("haha %o",typeof {{entry.key}});
-        if (x.style.display === 'block') {
-            x.style.display = 'none';
-        } else {
-            x.style.display = 'block';
-        }
-    }
-</script>
-
-{% if entry.abstract %}
-<button class="button3" onclick="toggle2{{entry.key  | replace: '-':'' | replace: ':':''}}()">abstract</button>
-{% endif %}
-
-<script>
-    function toggle2{{entry.key | replace : '-':'' | replace : ':':''}}() {
-        var x= document.getElementById('b{{entry.key}}');
-        // console.log("haha %o",typeof {{entry.key}});
-        if (x.style.display === 'block') {
-            x.style.display = 'none';
-        } else {
-            x.style.display = 'block';
-        }
-    }
-    </script>
 
 {% if entry.doi %}
 <a href="{{ entry.doi | prepend: 'http://doi.org/' }}"><input type='button' class='button1' value='doi'/></a>
@@ -63,8 +75,32 @@
 <!-- {% if entry.code %} -->
 <!-- <a href="{{ entry.code }}"><input type='button' class='button3' value='code'/></a> -->
 <!-- {% endif %} -->
+{% if entry.pdf %}
+  <a href="{{ site.baseurl }}/papers/{{ entry.pdf }}"><input type='button' class='button5' value='Download PDF'/></a>
+{% endif %}
+
 </div>
 
-<div id="a{{entry.key}}" style="display:none"><pre>{{entry.bibtex}}</pre></div>
-<div id="b{{entry.key}}" style="display:none"><pre>{{entry.abstract}}</pre></div>
-<div id="c{{entry.key}}" style="display:none"><pre>{{entry.author}}, "{{{entry.title}}," {{entry.journal}} {{entry.booktitle}}, {{entry.year}}.</pre></div>
+<div id="a{{entry.key | sanitizeKey}}" style="display:none">
+    <pre id="bibtex{{entry.key | sanitizeKey}}">{{entry.bibtex}}</pre>
+</div>
+  <script>
+    // This script runs after the page has loaded to remove the pdf field from the BibTeX entry
+    document.addEventListener('DOMContentLoaded', (event) => {
+      var key = '{{entry.key | sanitizeKey}}';
+      var bibtexElement = document.getElementById('bibtex' + key);
+      if (bibtexElement) {
+        var bibtexText = bibtexElement.textContent;
+        // Regular expression to match the pdf field line including trailing comma and whitespace
+        var pdfLineRegex = /^(\s*pdf\s*=\s*{[^}]*},?\s*)\r?\n?/gm;
+        // Remove the line with the pdf field and any trailing whitespace or line breaks
+        var updatedBibtexText = bibtexText.replace(pdfLineRegex, '');
+        bibtexElement.textContent = updatedBibtexText;
+      }
+    });
+  </script>
+
+  <div id="b{{entry.key | sanitizeKey}}" style="display:none"><pre>{{entry.abstract}}</pre></div>
+<div id="c{{entry.key | sanitizeKey}}" style="display:none">
+    <pre>{{ entry.author | formatAuthorsHarvard }}, ({{ entry.year }}) '{{ entry.title }}', <em>{{ entry.booktitle }}</em>, pp. {{ entry.pages }}. {% if entry.doi %} doi:{{ entry.doi }}{% endif %}</pre>
+</div>
