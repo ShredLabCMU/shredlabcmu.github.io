@@ -20,10 +20,6 @@ cd _site
 
 # fail if for some reason this isn't the gh-pages branch
 current_branch=$(git symbolic-ref --short -q HEAD)
-if [ "$current_branch" != "gh-pages" ]; then
-  echo "Expected build folder to be on gh-pages branch."
-  exit 1
-fi
 
 # Check which branch you are on
 echo $current_branch #this should be gh-pages
@@ -34,3 +30,7 @@ git push
 
 # cd back to base folder
 cd ..
+
+# push the master branch
+git add . && git commit -m "Update master"
+git push origin master
