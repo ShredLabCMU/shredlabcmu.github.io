@@ -1,17 +1,15 @@
 ---
 title: William Scott
-subtitle: Visitor
-job_title: Visitor
-category: visitor
+subtitle: Master's Student
+job_title: Master's Student
+category: master_student
 layout: team_member_personal_page
 image: /img/team/willScott.png
 link-new-tab: true
 published: true
 ---
 
-Will graduated from the University of Pittsburgh this year with a B.S. in Computer Engineering. His primary focus surrounds community-oriented robotics, integrating robotics with education. He performs research and community engagement initiatives in the Social Haptics Robotics and Education Laboratory under the guidance of Dr. Melisa Martinez. Will thrives in collaborative team-oriented   environments.   
-As   a   Promoting   Emerging   Entrepreneurs   in   Robotics   (PEER) fellow, Will looks forward to refining his communication skills and building his professional network with like-minded peers. He cannot wait to use the technical knowledge and skills to empower his local community: building frameworks for after-school programs and community workshops   designed   to   expose   underrepresented   minorities   to   robotic   concepts   in   a   safe
-environment.
+Will Scott is a community-oriented roboticist, educator, design scholar, and social critic pursuing a Master of Human-Computer Interaction who explores the integration of robotics with education and artistic disciplines. His work centers on equity, culture, and technical literacy to uplift innovations from marginalized groups to support the exploration of their identity through culturally relevant making that promotes their sustained engagement in the S.T.E.A.M. field. He works to design software systems, build curricula, and facilitate programs to educate underrepresented youth about robotics, entrepreneurship, and art in a safe, inclusive environment where we deepen our collective understanding of epistemological pluralism around historically "feminized" fields of study.Will Scott is a community-oriented roboticist, educator, design scholar, and social critic working in the Social Haptics Robotics and Education (SHRED) Lab who explores the integration of robotics with education and artistic disciplines. His work centers on equity, culture, and technical literacy to uplift innovations from marginalized groups to support the exploration of their identity through culturally relevant making that promotes their sustained engagement in the S.T.E.A.M. field. He works to design software systems, build curricula, and facilitate programs to educate underrepresented youth about robotics, entrepreneurship, and art in a safe, inclusive environment where we deepen our collective understanding of epistemological pluralism around historically "feminized" fields of study.
 
 ## Email ## 
 [wscott2@andrew.cmu.edu](mailto:wscott2@andrew.cmu.edu)
