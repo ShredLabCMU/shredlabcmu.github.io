@@ -1,14 +1,18 @@
+<!-- Here to modify the front page -->
 <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% elsif layout.hero_height %} {{ layout.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: linear-gradient(180deg, rgba(204,0,44,.1),rgba(204,0,44,0)), url('{{ page.hero_image }}') no-repeat center center; background-size: cover;" {% endif %}>
     <div class="hero-body">
         <div class="container">
             {% unless page.remove_hero_title %}
                 <!-- <p class="title is-2">{{ page.title }}</p> -->
                 <!-- <p class="subtitle is-3">{{ page.subtitle }}</p> -->
-                <p class="title is-2" style="color: #2980b9;">{{ page.title }}</p> <!-- Change title color to blue -->
-                <!-- <p class="subtitle is-3" style="color: #3498db;">{{ page.subtitle }}</p> Change subtitle color to blue -->
-                <p class="subtitle is-3">{{ page.subtitle }}</p> <!-- Change title color to blue -->
+                <p class="title is-2" style="color: #2980b9; font-weight: bold;">{{ page.title }}</p> <!-- Title color set to blue and bold -->
+                
+                <!-- Subtitle -->
+                <!-- <p class="subtitle is-3" style="color: #3498db; font-weight: bold;">{{ page.subtitle }}</p> Subtitle color set to blue and bold -->
+                <p class="subtitle is-3" style="color: #00192a; font-weight: bold;">{{ page.subtitle }}</p> 
+                 <!-- Subtitle color set to blue and bold -->
 
-                <p class="subtitle is-3">
+                <!-- <p class="subtitle is-3"> -->
             {% endunless %}
             {% if page.hero_link %}
                 <a href="{{ page.hero_link | prepend: site.baseurl  }}" class="button is-info is-large">{{ page.hero_link_text }}</a>

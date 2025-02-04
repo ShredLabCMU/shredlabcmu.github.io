@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Soft Magnetic Actuator"
-date:   2022-05-20 10:40:07
+date:   2025-02-3 10:40:07
 categories: research
 description: "Soft Magnetic Actuator for Haptics."
 permalink: /soft/
@@ -19,6 +19,9 @@ Current tactile haptic displays are either able to render tangential and normal 
 </figure>
 
 [comment]: <> {% youtube hrlpgeTy-0g %}
+<!-- {% youtube KCBxeJupIgk %} -->
+<!-- {% youtube KCBxeJupIgk %} -->
+{% youtube KCBxeJupIgk 800 450 %}
 
 ### Publications
 Pending
@@ -27,14 +30,14 @@ Pending
 <figure>
     <img src="/img/posts/2022-11-08-soft-magnetic-actuators/attracting_repulsing.gif" />
     <figcaption>
-        Interaction with the magneting field.
+        Interaction with the magnetic field.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/img/posts/2022-11-08-soft-magnetic-actuators/closer_magnet_ruler.gif" />
     <figcaption>
-        Interaction with the magneting field.
+        Interaction with the magnetic field.
     </figcaption>
 </figure>
 <br/>
