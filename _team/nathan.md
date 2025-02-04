@@ -33,6 +33,6 @@ He began his Ph.D. program in Fall 2022 in the LeDuc Lab to explore biohybrid ro
 [https://github.com/iquibalamhm](https://github.com/iquibalhm) -->
 
 ## Advised by ##
-Philip LeDuc [visit cmu page](https://www.meche.engineering.cmu.edu/directory/bios/leduc-philip.html)
+Philip LeDuc [(visit cmu page)](https://www.meche.engineering.cmu.edu/directory/bios/leduc-philip.html)
 
 [Melisa Orta Martinez](/team/melisa/) 
