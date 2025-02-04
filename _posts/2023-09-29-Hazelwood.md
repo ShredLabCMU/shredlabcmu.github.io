@@ -2,7 +2,7 @@
 layout: post
 title: "HazelWood Workshop"
 date: 2023-09-29 12:00:00
-categories: [research,highlights]
+categories: [teaching,highlights]
 description: "Monthly Workshop"
 author: "William Scott"
 published: true

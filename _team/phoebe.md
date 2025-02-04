@@ -6,9 +6,9 @@ category: master_student
 layout: team_member_personal_page
 image: /img/team/phoebe.png
 link-new-tab: true
-publish: false
+published: false
 ---
-
+Test
 ## Email ## 
 [phoebed@andrew.cmu.edu](mailto:phoebed@andrew.cmu.edu)
 

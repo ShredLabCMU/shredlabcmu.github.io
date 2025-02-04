@@ -2,7 +2,7 @@
 layout: post
 title: "Air Quality Monitoring Community Workshop"
 date: 2024-07-25 12:00:00
-categories: [research,highlights]
+categories: [teaching,highlights]
 description: "Workshop"
 author: "William Scott"
 published: true

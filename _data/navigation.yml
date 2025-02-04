@@ -17,9 +17,17 @@
 #      link: /tartanslamseries/
 #    - name: Summer School 2020
 #      link: /summer2020/
-#- name: Datasets
+# - name: Datasets
 #  link: /datasets/
-#- name: Openings
-#  link: /openings/
+
+
+
+- name: Teaching
+  link: /teaching/
+
+- name: Openings
+  link: /openings/
+  
 - name: Contact
   link: /contact/
+

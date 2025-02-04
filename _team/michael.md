@@ -4,7 +4,7 @@ subtitle: Master's Student
 job_title: Master's Student
 category: master_student
 layout: team_member_personal_page
-image: /img/team/Michael.png
+image: /img/team/michael.png
 link-new-tab: true
 ---
 
@@ -17,4 +17,4 @@ Hello, this is Woongseok Han. I go by Michael as well. I am a Master student in 
 A432 Newell-Simon Hall
 
 ## Advised by ##
-Melisa Orta Martinez
+[Melisa Orta Martinez](/team/melisa)

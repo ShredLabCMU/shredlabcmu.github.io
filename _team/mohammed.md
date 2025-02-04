@@ -4,7 +4,7 @@ subtitle: Visitor
 job_title: Intern
 category: visitor
 layout: team_member_personal_page
-image: /img/team/MohammedR.png
+image: /img/team/MohammedR_croppedclean.png
 link-new-tab: true
 published: true
 ---
