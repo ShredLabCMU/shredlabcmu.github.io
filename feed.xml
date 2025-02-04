@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shredlabcmu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shredlabcmu.github.io/" rel="alternate" type="text/html" /><updated>2025-02-03T23:23:28-05:00</updated><id>https://shredlabcmu.github.io/feed.xml</id><title type="html">SHREDLab</title><subtitle>Researching haptic technologies with social and educational impact at Carnegie Mellon University
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shredlabcmu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shredlabcmu.github.io/" rel="alternate" type="text/html" /><updated>2025-02-04T10:21:49-05:00</updated><id>https://shredlabcmu.github.io/feed.xml</id><title type="html">SHREDLab</title><subtitle>Researching haptic technologies with social and educational impact at Carnegie Mellon University
 </subtitle><entry><title type="html">Soft Magnetic Actuator</title><link href="https://shredlabcmu.github.io/soft/" rel="alternate" type="text/html" title="Soft Magnetic Actuator" /><published>2025-02-03T05:40:07-05:00</published><updated>2025-02-03T05:40:07-05:00</updated><id>https://shredlabcmu.github.io/soft-magnetic-actuators</id><content type="html" xml:base="https://shredlabcmu.github.io/soft/">&lt;p&gt;Soft Magnetic Actuator for Haptics.&lt;/p&gt;
 
 &lt;p&gt;Current tactile haptic displays are either able to render tangential and normal forces in one area of actuation on the fingertip, or normal forces in multiple areas of independent actuation, but cannot provide different kinds of forces in multiple independent areas of actuation. We are currently fabricating actuators using very low modulus materials together with magnetic particles to create weakly polarized flexible magnets. These materials respond with attraction or repulsion depending on the direction of the applied magnetic field and can apply shear or normal forces depending on the placement of external electromagnets. We are also developing apparatuses in which to test these materials for efficacy in texture rendering.&lt;/p&gt;
@@ -12,12 +12,13 @@
 &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/KCBxeJupIgk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;publications&quot;&gt;Publications&lt;/h3&gt;
-&lt;p&gt;Pending&lt;/p&gt;
+&lt;p&gt;A Magnetic Soft Device for Tactile Haptic Actuation of the Fingertip.
+By Costrell, S., Alam, M., Klatzky, R.L., McHenry, M.E., Walker, L.M. and Martinez, M.O. In 2023 IEEE World Haptics Conference (WHC), , pp. 48–55, , 2023. &lt;a href=&quot;https://ieeexplore.ieee.org/abstract/document/10224478&quot;&gt;IEEXplore link&lt;/a&gt;&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;/img/posts/2022-11-08-soft-magnetic-actuators/attracting_repulsing.gif&quot; /&gt;
+    &lt;img src=&quot;/img/posts/2022-11-08-soft-magnetic-actuators/user_study_setup.jpg&quot; /&gt;
     &lt;figcaption&gt;
-        Interaction with the magnetic field.
+       Setup for user study testing.
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -32,24 +33,83 @@
 &lt;h3 id=&quot;contact&quot;&gt;Contact&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Sarah Costrell (MechE) &lt;a href=&quot;mailto:scostrel@andrew.cmu.edu&quot;&gt;(scostrel@andrew.cmu.edu)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>SHRED Lab</name></author><category term="research" /><summary type="html">Soft Magnetic Actuator for Haptics.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2022-11-08-soft-magnetic-actuators/fingertipandmagnet.jpg" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2022-11-08-soft-magnetic-actuators/fingertipandmagnet.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Robot-Mediated haptics for blind students STEM education</title><link href="https://shredlabcmu.github.io/hapticmouse/" rel="alternate" type="text/html" title="Robot-Mediated haptics for blind students STEM education" /><published>2024-08-14T08:00:00-04:00</published><updated>2024-08-14T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/haptic-mouse</id><content type="html" xml:base="https://shredlabcmu.github.io/hapticmouse/">&lt;p&gt;Blind and low vision STEM education is hindered by an inability to engage with visual representations of STEM concepts. Our sense of touch provides us with a separate, distributed channel that could allow us to convey abstract STEM concepts non-visually. We propose using robot-mediated haptics to enable blind and low vision students to engage in STEM education through hands-on, interactive learning.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>SHRED Lab</name></author><category term="research" /><summary type="html">Soft Magnetic Actuator for Haptics.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2022-11-08-soft-magnetic-actuators/fingertipandmagnet.jpg" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2022-11-08-soft-magnetic-actuators/fingertipandmagnet.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">RoboLoom: Teach math through weaving</title><link href="https://shredlabcmu.github.io/roboloom-2025/" rel="alternate" type="text/html" title="RoboLoom: Teach math through weaving" /><published>2025-02-03T05:40:07-05:00</published><updated>2025-02-03T05:40:07-05:00</updated><id>https://shredlabcmu.github.io/roboloom</id><content type="html" xml:base="https://shredlabcmu.github.io/roboloom-2025/">&lt;p&gt;Our dedicated website at: &lt;a href=&quot;https://sites.google.com/view/roboloom/&quot;&gt;https://sites.google.com/view/roboloom/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;RoboLoom is a robotic Jacquard loom kit designed to facilitate interdisciplinary learning in engineering, mathematics, and art through collaborative assembly and use. It allows students to work together on building and operating the loom, fostering teamwork while teaching key concepts in weaving, engineering, and linear algebra.
+Most people don’t know how closely related computers, matrices, and the craft of weaving are, but weaving patterns and early loom designs inspired some of early computing and matrices. For today’s looms and computers there is still a connection. Matrices can describe how a loom is threaded, and what actions are taken each time step while weaving. These matrices can then be multiplied together resulting in a cloth’s pattern. Designing and optimizing these matrices can be explored as a computational problem in a crafting framework. 
+In addition, the woven cloth itself can be engineered using mathematical properties of the matrix representation of the cloth. These physical properties can predict how the cloth can be used and the strength it will have. Furthermore, advancements in engineering have been inspired by looms as they’ve been engineered to hold tension and become more autonomous machines. 
+RoboLoom aims to explore these interrelated concepts and bring weaving, matrix math, and engineering together in the classroom in new and interesting ways.&lt;/p&gt;
+
+&lt;!-- &lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2025-02-03-roboloom/roboloom_side_unedited.jpg&quot; /&gt;
+    &lt;figcaption&gt;
+        RoboLoom assembled.
+    &lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2025-02-03-roboloom/students_working.png&quot; /&gt;
+    &lt;figcaption&gt;
+        Students working during the summer of 2024.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2025-02-03-roboloom/RoboLooms_Class_S24.jpg&quot; /&gt;
+    &lt;figcaption&gt;
+        Render of the RoboLoom.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2025-02-03-roboloom/tension_system.jpg&quot; /&gt;
+    &lt;figcaption&gt;
+        Roboloom tension system.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2025-02-03-roboloom/JacquardMode Herringbone.png&quot; /&gt;
+    &lt;figcaption&gt;
+        GUI for weaving using our RoboLoom.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/team/sam&quot;&gt;Samantha Speer&lt;/a&gt; snspeer@andrew.cmu.edu&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/team/will/&quot;&gt;Will Scott&lt;/a&gt; wscott2@andrew.cmu.edu&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>SHRED Lab</name></author><category term="research" /><summary type="html">Our dedicated website at: https://sites.google.com/view/roboloom/</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2025-02-03-roboloom/RoboLoom.jpg" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2025-02-03-roboloom/RoboLoom.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cooperative Exploration with Heterogeneous Robot Teams</title><link href="https://shredlabcmu.github.io/cooperative/" rel="alternate" type="text/html" title="Cooperative Exploration with Heterogeneous Robot Teams" /><published>2025-02-01T07:00:00-05:00</published><updated>2025-02-01T07:00:00-05:00</updated><id>https://shredlabcmu.github.io/cooperative-robots</id><content type="html" xml:base="https://shredlabcmu.github.io/cooperative/">&lt;p&gt;We investigate how a heterogeneous robot team can improve urban search and rescue methods in collapsed buildings caused by earthquakes. Two types of robots compose the team: a vine robot for climbing in narrow, vertical spaces and RESCUE Rollers for general mobility at a minimal cost. The unstructured nature of disaster sites demands diverse robotic capabilities to traverse narrow gaps, navigate fallen rubble, and collectively analyze their environment to provide optimal coverage. Through various simulations and experiments, we evaluate different team compositions and compare trade-offs with regard to cost versus coverage. These experiments highlight the benefits of combining varied robot types to formulate a team that can adapt to the many challenges in unstructured environments. Building on these insights, we will next conduct real life experiments and create navigation policies leveraging the robot team’s collaboration.&lt;/p&gt;
+
+&lt;!-- &lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-03-07-haptic-guidance/Hand_render.JPG&quot;/&gt;
+&lt;/figure&gt; --&gt;
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/rR4xNo3OONY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;contact&quot;&gt;Contact&lt;/h3&gt;
+&lt;!-- - [Woongseok (Michael) Han](https://shredlabcmu.github.io/team/michael/) (woongseh [at]andrew [dot] cmu [dot] edu)  --&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/team/guadalupe&quot;&gt;Guadalupe Bernal&lt;/a&gt; - &lt;a href=&quot;mailto:gbernal@andrew.cmu.edu&quot;&gt;gbernal@andrew.cmu.edu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/team/melisa/&quot;&gt;Melisa Orta Martinez&lt;/a&gt; - &lt;a href=&quot;mailto:mortamar.andrew.cmu.edu&quot;&gt;mortamar@andrew.cmu.edu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>SHRED Lab</name></author><category term="research" /><summary type="html">We investigate how a heterogeneous robot team can improve urban search and rescue methods in collapsed buildings caused by earthquakes. Two types of robots compose the team: a vine robot for climbing in narrow, vertical spaces and RESCUE Rollers for general mobility at a minimal cost. The unstructured nature of disaster sites demands diverse robotic capabilities to traverse narrow gaps, navigate fallen rubble, and collectively analyze their environment to provide optimal coverage. Through various simulations and experiments, we evaluate different team compositions and compare trade-offs with regard to cost versus coverage. These experiments highlight the benefits of combining varied robot types to formulate a team that can adapt to the many challenges in unstructured environments. Building on these insights, we will next conduct real life experiments and create navigation policies leveraging the robot team’s collaboration.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2025-02-04-cooperative-robots/cooperative.png" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2025-02-04-cooperative-robots/cooperative.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Robot-Mediated haptics for blind students STEM education</title><link href="https://shredlabcmu.github.io/hapticmouse/" rel="alternate" type="text/html" title="Robot-Mediated haptics for blind students STEM education" /><published>2024-08-14T08:00:00-04:00</published><updated>2024-08-14T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/haptic-mouse</id><content type="html" xml:base="https://shredlabcmu.github.io/hapticmouse/">&lt;!-- Blind and low vision STEM education is hindered by an inability to engage with visual representations of STEM concepts. Our sense of touch provides us with a separate, distributed channel that could allow us to convey abstract STEM concepts non-visually. We propose using robot-mediated haptics to enable blind and low vision students to engage in STEM education through hands-on, interactive learning. --&gt;
+
+&lt;p&gt;Robot Mouse is a prototype of a mouse that uses touch feedback to render digital graphical content for blind and low-vision users.  Our intent is to develop an open-source tool that aids blind and low-vision students in learning abstract concepts that are hard to grasp without visualizations.  Through our device, students can dynamically interact with abstract concepts such as mathematical functions, physical and chemical equations, among others using their sense of touch.
+Thank you and lmk if you need anything else.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;/img/posts/2022-05-02-haptic-blind/blind-guide.png&quot; /&gt;
-    &lt;img src=&quot;/img/posts/2022-05-02-haptic-blind/DeltaMech.png&quot; /&gt;
-    &lt;img src=&quot;/img/posts/2022-05-02-haptic-blind/ergo-mouse.jpg&quot; /&gt;
+    &lt;img src=&quot;/img/posts/2022-05-02-haptic-blind/Haptic-Mouse.png&quot; /&gt;
+    &lt;!-- &lt;img src=&quot;/img/posts/2022-05-02-haptic-blind/DeltaMech.png&quot; /&gt; --&gt;
+    &lt;img src=&quot;/img/posts/2022-05-02-haptic-blind/PXL_20241001_174418556.MP.jpg&quot; /&gt;
     &lt;figcaption&gt;
         We have designed a mouse capable of rendering rich haptic effects through a delta mechanism which replaces the standard mouse button.
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;We are currently co-designing the rendering of graphical content through haptic feedback with members of the blind and visually impaired community. Our goal is to design an educational tool that can serve blind and visually impaired students.&lt;/p&gt;
-
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/cMkF67OGzsE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/eGMqdWkUY98&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;!-- https://youtube.com/shorts/eGMqdWkUY98?feature=share --&gt;
 &lt;h3 id=&quot;contact&quot;&gt;Contact&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shredlabcmu.github.io/team/michael/&quot;&gt;Woongseok (Michael) Han&lt;/a&gt; (woongseh [at]andrew [dot] cmu [dot] edu)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shredlabcmu.github.io/team/melisa/&quot;&gt;Melisa Orta Martinez&lt;/a&gt; - (mortamar [at] andrew [dot] cmu [dot] edu)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>SHRED Lab</name></author><category term="research" /><summary type="html">Blind and low vision STEM education is hindered by an inability to engage with visual representations of STEM concepts. Our sense of touch provides us with a separate, distributed channel that could allow us to convey abstract STEM concepts non-visually. We propose using robot-mediated haptics to enable blind and low vision students to engage in STEM education through hands-on, interactive learning.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2022-05-02-haptic-blind/blind-guide.png" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2022-05-02-haptic-blind/blind-guide.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Air Quality Monitoring Community Workshop</title><link href="https://shredlabcmu.github.io/air-quality/" rel="alternate" type="text/html" title="Air Quality Monitoring Community Workshop" /><published>2024-07-25T08:00:00-04:00</published><updated>2024-07-25T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/airquality</id><content type="html" xml:base="https://shredlabcmu.github.io/air-quality/">&lt;h1 id=&quot;air-quality-monitoring&quot;&gt;Air Quality Monitoring&lt;/h1&gt;
+  &lt;li&gt;&lt;a href=&quot;/team/michael/&quot;&gt;Woongseok (Michael) Han&lt;/a&gt; &lt;a href=&quot;mailto:woongseh@andrew.cmu.edu&quot;&gt;woongseh@andrew.cmu.edu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/team/melisa/&quot;&gt;Melisa Orta Martinez&lt;/a&gt; - &lt;a href=&quot;mailto:mortamar@andrew.cmu.edu&quot;&gt;mortamar@andrew.cmu.edu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>SHRED Lab</name></author><category term="research" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2022-05-02-haptic-blind/blind-guide.png" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2022-05-02-haptic-blind/blind-guide.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Air Quality Monitoring Community Workshop</title><link href="https://shredlabcmu.github.io/air-quality/" rel="alternate" type="text/html" title="Air Quality Monitoring Community Workshop" /><published>2024-07-25T08:00:00-04:00</published><updated>2024-07-25T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/airquality</id><content type="html" xml:base="https://shredlabcmu.github.io/air-quality/">&lt;h1 id=&quot;air-quality-monitoring&quot;&gt;Air Quality Monitoring&lt;/h1&gt;
 
 &lt;figure&gt;
     &lt;img src=&quot;/img/posts/2024-07-25-airquality/KIMG1208.JPG&quot; /&gt;
@@ -73,7 +133,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/team/will/&quot;&gt;William Scott&lt;/a&gt; &amp;lt;wscott2 [at] cmu [dot] edu&amp;gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>William Scott</name></author><category term="research" /><category term="highlights" /><summary type="html">Air Quality Monitoring</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2024-07-25-airquality/KIMG1208.JPG" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2024-07-25-airquality/KIMG1208.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">HazelWood Workshop</title><link href="https://shredlabcmu.github.io/hazelwood/" rel="alternate" type="text/html" title="HazelWood Workshop" /><published>2023-09-29T08:00:00-04:00</published><updated>2023-09-29T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/Hazelwood</id><content type="html" xml:base="https://shredlabcmu.github.io/hazelwood/">&lt;p&gt;Thanks to the Build Back Better federal grant awarded to the South-Western
+&lt;/ul&gt;</content><author><name>William Scott</name></author><category term="teaching" /><category term="highlights" /><summary type="html">Air Quality Monitoring</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2024-07-25-airquality/KIMG1208.JPG" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2024-07-25-airquality/KIMG1208.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">HazelWood Workshop</title><link href="https://shredlabcmu.github.io/hazelwood/" rel="alternate" type="text/html" title="HazelWood Workshop" /><published>2023-09-29T08:00:00-04:00</published><updated>2023-09-29T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/Hazelwood</id><content type="html" xml:base="https://shredlabcmu.github.io/hazelwood/">&lt;p&gt;Thanks to the Build Back Better federal grant awarded to the South-Western
 Pennsylvania Region and collaboration with the Regional Industrial Development Corporation
 (RIDC)- Carnegie Mellon University has recently announced the renovation of an old steel mill,
 Mill 19, into a new $150 million robotics manufacturing facility in the heart of the Hazelwood
@@ -108,7 +168,7 @@ Fall 2023 and Spring 2024 semesters.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/team/will/&quot;&gt;William Scott&lt;/a&gt; &amp;lt;wscott2 [at] cmu [dot] edu&amp;gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>William Scott</name></author><category term="research" /><category term="highlights" /><summary type="html">Thanks to the Build Back Better federal grant awarded to the South-Western Pennsylvania Region and collaboration with the Regional Industrial Development Corporation (RIDC)- Carnegie Mellon University has recently announced the renovation of an old steel mill, Mill 19, into a new $150 million robotics manufacturing facility in the heart of the Hazelwood community. In response to this new construction, the Social Haptics Robotics and Education (SHRED) Laboratory is supporting local Hazelwood youth through a community workshop series called the Art of Sound. We are motivated to preserve existing community members’ sense of belonging by installing multiple art pieces that describe the stories and experiences of those local to the region.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2023-09-29-hazelwood-center/group.jpg" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2023-09-29-hazelwood-center/group.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">RoboLoom: Teach math through weaving</title><link href="https://shredlabcmu.github.io/roboloom/" rel="alternate" type="text/html" title="RoboLoom: Teach math through weaving" /><published>2022-05-20T06:40:07-04:00</published><updated>2022-05-20T06:40:07-04:00</updated><id>https://shredlabcmu.github.io/roboloom</id><content type="html" xml:base="https://shredlabcmu.github.io/roboloom/">&lt;p&gt;RoboLoom is a project to design, build, and deploy a robotic fully jacquard loom that has software interfaces to aid in teaching matrix math through weaving.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>William Scott</name></author><category term="teaching" /><category term="highlights" /><summary type="html">Thanks to the Build Back Better federal grant awarded to the South-Western Pennsylvania Region and collaboration with the Regional Industrial Development Corporation (RIDC)- Carnegie Mellon University has recently announced the renovation of an old steel mill, Mill 19, into a new $150 million robotics manufacturing facility in the heart of the Hazelwood community. In response to this new construction, the Social Haptics Robotics and Education (SHRED) Laboratory is supporting local Hazelwood youth through a community workshop series called the Art of Sound. We are motivated to preserve existing community members’ sense of belonging by installing multiple art pieces that describe the stories and experiences of those local to the region.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2023-09-29-hazelwood-center/group.jpg" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2023-09-29-hazelwood-center/group.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">RoboLoom: Teach math through weaving</title><link href="https://shredlabcmu.github.io/roboloom/" rel="alternate" type="text/html" title="RoboLoom: Teach math through weaving" /><published>2022-05-20T06:40:07-04:00</published><updated>2022-05-20T06:40:07-04:00</updated><id>https://shredlabcmu.github.io/roboloom</id><content type="html" xml:base="https://shredlabcmu.github.io/roboloom/">&lt;p&gt;RoboLoom is a project to design, build, and deploy a robotic fully jacquard loom that has software interfaces to aid in teaching matrix math through weaving.&lt;/p&gt;
 
 &lt;p&gt;Most people don’t know how closely related computers, matrices, and the craft of weaving are, but weaving patterns and early loom designs inspired some of early computing and matrices. For today’s looms and computers there is still a connection. Matrices can describe how a loom is threaded, and what actions are taken each time step while weaving. These matrices can then be multiplied together resulting in a cloth’s pattern. Designing and optimizing these matrices can be explored as a computational problem in a crafting framework. RoboLoom aims to explore this and bring weaving and matrix math together in new and interesting ways.&lt;/p&gt;
 
