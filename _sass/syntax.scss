@@ -224,6 +224,20 @@
   cursor: pointer;
   border-radius: 5px;
 }
+/*This is for the subtitle in the homepage*/
+.stroke-text {
+  /* Set the fill color of the text */
+  color: white;
+  
+  /* Add a stroke to the text */
+  // -webkit-text-stroke: 0.2px #00192a;
+  
+  /* Optional: If you want to maintain the original color behind the stroke */
+  font-weight: bold;
+  
+  /* Change the font size */
+  font-size: 30px; /* You can adjust the value and unit (px, em, rem, etc.) as needed */
+}
 
 .button1 {
   /*background-color: #FF6600;*/
