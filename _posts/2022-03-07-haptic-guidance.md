@@ -4,7 +4,7 @@ title:  "Haptic Guidance Robot"
 date:   2022-05-20 10:40:07
 categories: research
 description: "Haptic Guidance Robot."
-permalink: /guidance/
+permalink: /research/guidance/
 author: SHRED Lab
 published: true
 image: /img/posts/2022-03-07-haptic-guidance/Robot_render.JPG

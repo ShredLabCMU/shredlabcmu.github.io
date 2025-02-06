@@ -4,7 +4,7 @@ title:  "Soft Magnetic Actuator"
 date:   2025-02-3 10:40:07
 categories: research
 description: "Soft Magnetic Actuator for Haptics."
-permalink: /soft/
+permalink: /research/soft/
 published: true
 author: SHRED Lab
 image: /img/posts/2022-11-08-soft-magnetic-actuators/fingertipandmagnet.jpg

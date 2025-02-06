@@ -7,7 +7,7 @@ description: "Haptics for blind STEM education"
 author: "SHRED Lab"
 published: true
 sidebar:  false
-permalink: /cooperative/
+permalink: /research/cooperative/
 image: /img/posts/2025-02-04-cooperative-robots/cooperative.png
 datatable: true
 title_image: None

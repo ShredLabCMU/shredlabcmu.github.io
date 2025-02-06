@@ -8,11 +8,11 @@ image: /img/team/Iqui_640x480_noremove.png
 link-new-tab: true
 ---
 
-My name is Iqui Balam Heredia Marin (Iqui for short) and I am a first year PhD Student.
+My name is Iqui Balam Heredia Marin (Iqui for short) and I am a third year PhD Student.
 
-I was member of RoBorregos ITESM since 2017, where I have had the opportunity to represent Mexico in international competitions. I have also had international and national research intern experiences; I was a Mitacs Globalink Research Intern and member of the RISS 2021 cohort. My main research and extracurricular activities involves Artificial Intelligence, Computer Vision, Deep Learning and; Haptics  and Robotics for Education.
+My main research and extracurricular activities involves Artificial Intelligence, Computer Vision, Deep Learning and; Haptics and Robotics for Education.
 
-
+Read about my research: [HaptiClay](/research/hapticlay)
 
 ## Email ## 
 [iquibalh@andrew.cmu.edu](mailto:iquibalh@andrew.cmu.edu)
@@ -32,4 +32,4 @@ I was member of RoBorregos ITESM since 2017, where I have had the opportunity to
 [https://github.com/iquibalamhm](https://github.com/iquibalhm)
 
 ## Advised by ##
-Melisa Orta Martinez
+[Melisa Orta Martinez](/team/melisa)
