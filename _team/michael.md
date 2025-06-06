@@ -2,7 +2,7 @@
 title: Woongseok Han (Michael)
 subtitle: Master's Student
 job_title: Master's Student
-category: master_student
+category: graduate_alumni
 layout: team_member_personal_page
 image: /img/team/michael.png
 link-new-tab: true

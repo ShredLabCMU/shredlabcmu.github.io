@@ -2,7 +2,7 @@
 title: Charlotte Betz
 subtitle: Visiting Scholar
 job_title: Visiting Scholar
-category: visitor
+category: previous_intern
 layout: team_member_personal_page
 image: /img/team/charlotte_clean.png
 link-new-tab: true

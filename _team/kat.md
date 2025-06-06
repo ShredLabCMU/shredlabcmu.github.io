@@ -2,7 +2,7 @@
 title: Katherene Qi
 subtitle: Visiting Scholar
 job_title: Visiting Scholar
-category: visitor
+category: previous_intern
 layout: team_member_personal_page
 image: /img/team/kqi_640.png
 link-new-tab: true

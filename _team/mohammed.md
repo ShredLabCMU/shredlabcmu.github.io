@@ -2,7 +2,7 @@
 title: Mohammed Rajkotwala
 subtitle: Visiting Scholar
 job_title: Visiting Scholar
-category: visitor
+category: previous_intern
 layout: team_member_personal_page
 image: /img/team/MohammedR_croppedclean.png
 link-new-tab: true
