@@ -4,7 +4,7 @@ subtitle: Postdoctor
 job_title: Postdoctor
 category: postdoc
 layout: team_member_personal_page
-image: /img/team/Untitled.png
+image: /img/team/Peter.png
 link-new-tab: true
 ---
 
