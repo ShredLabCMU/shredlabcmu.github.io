@@ -8,7 +8,7 @@ image: /img/team/Jesus.png
 link-new-tab: true
 ---
 
-¡Hola! I’m Jesus Guerrero from Monterrey, Mexico, and I’m entering my final year in Robotics and Digital Systems Engineering at Tecnológico de Monterrey. This summer, I’m excited to join CMU’s SHRED Lab as a RISS Scholar, working on a robotic submarine for water filtration under Dr. Melisa Orta Martínez and Nathan Zimmerer. I’m passionate about control systems, programming, and using robotics to solve real-world problems. At my university, I’m part of [Roborregos](https://github.com/RoBorregos) and [Vanttec](https://github.com/vanttec), where I’ve gained hands-on experience in autonomous systems and team-based engineering.
+¡Hola! I’m Jesus Guerrero from Monterrey, Mexico, and I’m entering my final year in Robotics and Digital Systems Engineering at Tecnológico de Monterrey. This summer, I’m excited to join CMU’s SHRED Lab as a RISS Scholar, working on a robotic submarine for water filtration under Dr. Melisa Orta Martínez and Nathan Zimmerer. I’m passionate about control systems, programming, and using robotics to solve real-world problems. At my home campus, I’m an active member of [Roborregos](https://github.com/RoBorregos) and [Vanttec](https://github.com/vanttec) where I’ve gained hands-on engineering experience and collaborative problem-solving skills. I’m grateful to the RISS program, the entire SHRED Lab team, and Rachel Burcin for their support.
 
 **Email**: [jesusrg2405@gmail.com](mailto:jesusrg2405@gmail.com)
 [jesusgue@andrew.cmu.edu](mailto:jesusgue@andrew.cmu.edu)
