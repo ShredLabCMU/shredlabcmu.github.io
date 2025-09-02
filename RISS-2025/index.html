@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>SHRED LAB - SHREDLab</title>
+    <title>RISS 2025 - SHREDLab</title>
     
     <link rel="stylesheet" href="/assets/css/app.css">
 
@@ -25,22 +25,47 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   
+  <!-- Include the standard DataTables bits -->
+  <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
+  <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
+  <script>
+    $(document).ready(function () {
+      $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+      $('table.display').DataTable({
+        paging: false,
+        stateSave: true,
+        searching: true
+      });
+    });
+  </script>
+  
+  
+    <script>
+      $(document).ready(function () {
+          $('.content a').attr({'target':'_blank', 'rel':'noopener noreferrer'});
+        });
+    </script>
   
 
     <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>SHRED LAB | SHREDLab</title>
+<title>RISS 2025 | SHREDLab</title>
 <meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="SHRED LAB" />
+<meta property="og:title" content="RISS 2025" />
+<meta name="author" content="Iqui Balam" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Researching haptic technologies with social and educational impact at Carnegie Mellon University" />
-<meta property="og:description" content="Researching haptic technologies with social and educational impact at Carnegie Mellon University" />
-<link rel="canonical" href="https://shredlabcmu.github.io/" />
-<meta property="og:url" content="https://shredlabcmu.github.io/" />
+<meta name="description" content="Summer Scholars" />
+<meta property="og:description" content="Summer Scholars" />
+<link rel="canonical" href="https://shredlabcmu.github.io/RISS-2025/" />
+<meta property="og:url" content="https://shredlabcmu.github.io/RISS-2025/" />
 <meta property="og:site_name" content="SHREDLab" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="SHRED LAB" />
+<meta property="og:image" content="https://shredlabcmu.github.io/img/posts/2025-09-01-riss-2025/RISS2025.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-09-29T08:00:00-04:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://shredlabcmu.github.io/img/posts/2025-09-01-riss-2025/RISS2025.png" />
+<meta property="twitter:title" content="RISS 2025" />
 <script type="application/ld+json">
-{"@type":"WebSite","url":"https://shredlabcmu.github.io/","description":"Researching haptic technologies with social and educational impact at Carnegie Mellon University","headline":"SHRED LAB","name":"SHREDLab","@context":"https://schema.org"}</script>
+{"mainEntityOfPage":{"@type":"WebPage","@id":"https://shredlabcmu.github.io/RISS-2025/"},"author":{"@type":"Person","name":"Iqui Balam"},"@type":"BlogPosting","url":"https://shredlabcmu.github.io/RISS-2025/","description":"Summer Scholars","image":"https://shredlabcmu.github.io/img/posts/2025-09-01-riss-2025/RISS2025.png","headline":"RISS 2025","dateModified":"2023-09-29T08:00:00-04:00","datePublished":"2023-09-29T08:00:00-04:00","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QTXQRRYTJ5"></script>
 <script>
@@ -73,7 +98,7 @@
         </div>
         <div class="navbar-menu" id="navMenu">
             <div class="navbar-start">
-                <a href="/" class="navbar-item is-active">Home</a>
+                <a href="/" class="navbar-item ">Home</a>
                 
                 
                     
@@ -106,32 +131,28 @@
     </div>
 </nav>
   <!-- Here to modify the front page -->
-<section class="hero  is-large  is-bold is-primary"  style="background: linear-gradient(180deg, rgba(204,0,44,.1),rgba(204,0,44,0)), url('/img/homepage_slideshow_v2.gif') no-repeat center center; background-size: cover;" >
+<section class="hero  is-medium  is-bold is-primary" >
     <div class="hero-body">
         <div class="container">
             
-                <!-- <p class="title is-2">SHRED LAB</p> -->
-                <!-- <p class="subtitle is-3">Social Haptics, Robotics and Education Lab</p> -->
-                <p class="title is-2" style="color: #2980b9; font-weight: bold;">SHRED LAB</p> <!-- Title color set to blue and bold -->
+                <!-- <p class="title is-2">RISS 2025</p> -->
+                <!-- <p class="subtitle is-3"></p> -->
+                <p class="title is-2" style="color: #2980b9; font-weight: bold;">RISS 2025</p> <!-- Title color set to blue and bold -->
                 
                 <!-- Subtitle -->
-                <!-- <p class="subtitle is-3" style="color: #3498db; font-weight: bold;">Social Haptics, Robotics and Education Lab</p> Subtitle color set to blue and bold -->
-                <!-- <p class="subtitle is-3" style="color: #00192a; font-weight: bold;">Social Haptics, Robotics and Education Lab</p>  -->
+                <!-- <p class="subtitle is-3" style="color: #3498db; font-weight: bold;"></p> Subtitle color set to blue and bold -->
+                <!-- <p class="subtitle is-3" style="color: #00192a; font-weight: bold;"></p>  -->
                 <p class="subtitle is-3" style="color: #FFFFFF; font-weight: bold;">
-                    Social Haptics, Robotics and Education Lab
+                    
                   </p> 
                   <!-- <p class="stroke-text">
-                    Social Haptics, Robotics and Education Lab
+                    
                   </p> -->
                 <!-- Subtitle color set to blue and bold -->
 
                 <!-- <p class="subtitle is-3"> -->
             
             
-                <a href="/research/" class="button is-info is-large">See Our Research</a>
-            
-            
-                <a href="/current-members/" class="button is-info is-large">See Our Team</a>
             
         </p>
         </div>
@@ -161,83 +182,201 @@
                 
 
                 
-                <div class="column is-12">
+                <div class="column is-8">
                       
+	
+
+
+<!-- Figure out the relative link to the author -->
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
 <div class="content">
-    <h1 id="about-us">About Us</h1>
-<p>Making haptics and robotics to improve Education and Wellbeing.</p>
 
-<p>We are proud to be part of the <a href="https://www.ri.cmu.edu/">Robotics Institute</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.</p>
+    <p><div style="font-size: 13px">Published: 
+		<time datetime="2023-09-29T08:00:00-04:00">Sep 29, 2023</time> by 
+		<div style="font-weight: bold; color: #3399ff; display: inline">
+		
+			Iqui Balam
+		
+		</div>
+	</div></p>
 
-<h1 id="highlights">Highlights</h1>
+    <h1>RISS 2025</h1>
+
+    <p>Congratulations to the RISS 2025 Cohort! This summer’s scholars presented their research projects to the Carnegie Mellon University research community, RISS Sponsors, and the Pittsburgh public during the 2025 RISS Closing Celebration on August 7.</p>
+
+<p>We were very fortunate to host a record number of 6 students in our lab this summer.</p>
+
+<figure>
+    <img src="/img/posts/2025-09-01-riss-2025/RISS2025.png" />
+    <figcaption>
+        From left to right Ricardo Guerrero, Juan Pablo Robles, Annika Srnivasan, Daniela Diego, Junee Omana, Arlene Reyes.
+    </figcaption>
+</figure>
+
+<p>This summer was very special as RISS was thrilled to initiate a partnership with University of Guadalajara (UDG), Mexico. We welcomed four scholars from Mexico, all who joined the SHRED Lab during the summer, three of whom are students at UDG. The University of Guadalajara is Mexico’s second-largest public university, serving more than 300,000 students and supported by a robust faculty of over 15,000 members across multiple campuses. We look forward to continuing to unite our research communities through this partnership!</p>
+
+<p>We were honored to welcome Dr. Marco Pérez-Cisneros to join us at the RISS Closing and Poster Session! Dr. Marco is a professor and the Rector of the CUCEI at UDG, and he came to join us in congratulating three 2025 RISS Scholars from University of Guadalajara– Atziri Daniela Diego Gonzalez, Juan Pablo Robles Perez, and Denisse Arlene Reyes Rosas– for completing their summer research! Dr. Marco is not only an accomplished scholar and tech researcher, but is an incredible advocate for his students. Thank you also to the Rector of the University of Guadalajara, Mtra. Karla Alejandrina Planter Pérez, and all of their colleagues at UDG for their dedication to advocacy and mentorship as they help launch the next global generation of roboticists and AI Scholars. We are proud to welcome Dr. Marco, along with his colleagues and scholars, into the RISS Family!</p>
+
+<p>We would also like to acknowledge the help of Rachel Burcin, Global Programs Manager and Co-director of RISS for her help and support to our talented students.</p>
+<figure>
+    <img src="/img/posts/2025-09-01-riss-2025/udg.jpg" />
+    <figcaption>
+        From left to right Daniela Diego, Rachel Burcin, Marco Pérez-Cisneros, Arlene Reyes and Juan Pablo Robles.
+    </figcaption>
+</figure>
+
+<!-- ## Contact
+
+ - [William Scott](/team/will/) <wscott2 [at] cmu [dot] edu> -->
+
+</div>
+
+<div class="tags">
+    
+</div>
+
+
+  
+
+
+                </div>
+                
+                <div class="column is-4-desktop is-12-tablet">
+                    <p class="title is-4">Latest Research</p>
+
 <div class="columns is-multiline">
     
-    <div class="column is-4-desktop is-6-tablet">
-        <a href="/air-quality/">
+    <div class="column is-12">
+        <a href="/research/roboloom-2025/">
 <div class="card" style="height: 100%; display: flex; flex-direction: column; align-items: center;">
     
         <div style="height: 200px;">
-            <img src="/img/posts/2024-07-25-airquality/KIMG1208.JPG" alt="Air Quality Monitoring Community Workshop" style="object-fit: contain; height: 100%;" />
+            <img src="/img/posts/2025-02-03-roboloom/RoboLoom.jpg" alt="RoboLoom: Teach math through weaving" style="object-fit: contain; height: 100%;">
         </div>
     
     <div class="card-content" style="flex-grow: 3;">
         <div class="content">
             
-            <div class="title is-5">Air Quality Monitoring Community Workshop</div>
+            <div class="title is-5">RoboLoom: Teach math through weaving</div>
             
-            <p>Air Quality Monitoring</p>
+            <p>RoboLoom is a robotic Jacquard loom kit designed to facilitate interdisciplinary learning in engi...</p>
         </div>
     </div>
     <footer class="card-footer">
-        <p class="card-footer-item">Published: Jul 25, 2024</p>
+        <p class="card-footer-item">Published: Feb 3, 2025</p>
     </footer>
 </div>
 </a>
 
     </div>
     
-    <div class="column is-4-desktop is-6-tablet">
-        <a href="/RISS-2025/">
+    <div class="column is-12">
+        <a href="/research/soft/">
 <div class="card" style="height: 100%; display: flex; flex-direction: column; align-items: center;">
     
         <div style="height: 200px;">
-            <img src="/img/posts/2025-09-01-riss-2025/RISS2025.png" alt="RISS 2025" style="object-fit: contain; height: 100%;" />
+            <img src="/img/posts/2022-11-08-soft-magnetic-actuators/fingertipandmagnet.jpg" alt="Soft Magnetic Actuator" style="object-fit: contain; height: 100%;">
         </div>
     
     <div class="card-content" style="flex-grow: 3;">
         <div class="content">
             
-            <div class="title is-5">RISS 2025</div>
+            <div class="title is-5">Soft Magnetic Actuator</div>
             
-            <p>Congratulations to the RISS 2025 Cohort! This summer’s scholars presented their research projects...</p>
+            <p>Soft Magnetic Actuator for Haptics.</p>
         </div>
     </div>
     <footer class="card-footer">
-        <p class="card-footer-item">Published: Sep 29, 2023</p>
+        <p class="card-footer-item">Published: Feb 3, 2025</p>
     </footer>
 </div>
 </a>
 
     </div>
     
-    <div class="column is-4-desktop is-6-tablet">
-        <a href="/hazelwood/">
+    <div class="column is-12">
+        <a href="/teaching/ideate/">
 <div class="card" style="height: 100%; display: flex; flex-direction: column; align-items: center;">
     
         <div style="height: 200px;">
-            <img src="/img/posts/2023-09-29-hazelwood-center/group.jpg" alt="HazelWood Workshop" style="object-fit: contain; height: 100%;" />
+            <img src="/img/posts/2025-02-04-ideate-soft/hands-soft.jpeg" alt="16-224 IDeATe: Re-Crafting Computational Thinking with Soft Technologies" style="object-fit: contain; height: 100%;">
         </div>
     
     <div class="card-content" style="flex-grow: 3;">
         <div class="content">
             
-            <div class="title is-5">HazelWood Workshop</div>
+            <div class="title is-5">16-224 IDeATe: Re-Crafting Computational Thinking with Soft Technologies</div>
             
-            <p>Thanks to the Build Back Better federal grant awarded to the South-WesternPennsylvania Region and...</p>
+            <p>Re-Crafting Computational Thinking with Soft Technologies focuses on teaching introductory concep...</p>
         </div>
     </div>
     <footer class="card-footer">
-        <p class="card-footer-item">Published: Sep 29, 2023</p>
+        <p class="card-footer-item">Published: Feb 2, 2025</p>
     </footer>
 </div>
 </a>
@@ -247,7 +386,8 @@
 </div>
 
 
-</div>
+
+
                 </div>
                 
             </div>
@@ -345,7 +485,7 @@
           <div id="block3"><img src="/img/riLogo2019.svg" alt="RI Logo" style="float: right;"></div>
         </div>
         <!-- <div>
-          <a href="/research/" class="button is-large"><div class="icon"><i class="fab fa-facebook"</i></div></a>
+          <a href="" class="button is-large"><div class="icon"><i class="fab fa-facebook"</i></div></a>
         </div> -->
         <!-- <div class="content is-small has-text-centered">
             <p class="">© 2020</p>
