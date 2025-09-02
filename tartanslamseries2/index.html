@@ -11,6 +11,10 @@
     
     <link rel="stylesheet" href="/assets/css/app.css">
 
+    <!-- Bulma Carousel -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.24/dist/css/bulma-carousel.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.24/dist/js/bulma-carousel.min.js"></script>
+
     <link rel="shortcut icon" type="image/ico" href="/img/favicon/favicon.ico" />
 
     <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
@@ -108,9 +112,13 @@
     </div>
 </nav>
   <!-- Here to modify the front page -->
-<section class="hero  is-medium  is-bold is-primary"  style="background: linear-gradient(180deg, rgba(204,0,44,.1),rgba(204,0,44,0)), url('/img/slam_series/tartanSLAMbannerFall.png') no-repeat center center; background-size: cover;" >
+<section class="hero  is-medium  is-bold is-primary">
+    
+    
+    <div class="hero-legacy-bg" style="background: linear-gradient(180deg, rgba(204,0,44,.1),rgba(204,0,44,0)), url('/img/slam_series/tartanSLAMbannerFall.png') no-repeat center center; background-size: cover;"></div>
+    
     <div class="hero-body">
-        <div class="container">
+        <div class="container hero-overlay">
             
                 <!-- <p class="title is-2">Tartan SLAM Series Fall Edition</p> -->
                 <!-- <p class="subtitle is-3">Fall 2021 interactive series of talks, tutorials, and learning on SLAM</p> -->
@@ -134,22 +142,59 @@
         </p>
         </div>
     </div>
-</section>
+ </section>
 <!-- Buttons at the front page -->
 <style>
-    .button.is-info {
-     /* background-color:#cc002b; */
-     background-color: #2980b9; /* light blue */
-     border-color:transparent;
-     color:#fff
-    }
-    .button.is-info.is-hovered {
-     /* background-color:#cc002b; */
-     background-color: #2980b9; /* light blue */
-     border-color:transparent;
-     color:#fff
-    }
+    .button.is-info {background-color:#2980b9;border-color:transparent;color:#fff}
+    .button.is-info.is-hovered {background-color:#2980b9;border-color:transparent;color:#fff}
+    /* Hero responsive image layering */
+    .hero {position:relative;overflow:hidden;}
+    .hero-media, .hero-legacy-bg {position:absolute;inset:0;}
+    .hero-media picture, .hero-media .hero-img {width:100%;height:100%;display:block;}
+    .hero-media .hero-img {object-fit:cover;}
+    .hero-overlay {position:relative;z-index:2;}
+    .hero-legacy-bg {background-size:cover;background-position:center;}
+        /* Custom slider */
+        .hero-slider {position:absolute;inset:0;}
+        .hero-slide {position:absolute;inset:0;opacity:0;transition:opacity .5s ease;}
+        .hero-slide.is-active {opacity:1;z-index:1;}
+        .hero-slide picture, .hero-slide .hero-img {width:100%;height:100%;display:block;}
+        .hero-slide .hero-img {object-fit:cover;object-position:center center;}
+        .hero-nav {position:absolute;top:50%;transform:translateY(-50%);background:rgba(0,0,0,.35);color:#fff;border:0;padding:.5rem .75rem;font-size:1.5rem;cursor:pointer;z-index:3;line-height:1;border-radius:4px;}
+        .hero-nav:hover {background:rgba(0,0,0,.55);} 
+        .hero-prev {left:12px;} .hero-next {right:12px;}
+        @media (max-width: 768px){ .hero-nav{font-size:1.1rem;padding:.35rem .55rem;} }
 </style>
+<script>
+// Minimal vanilla slider for hero
+document.addEventListener('DOMContentLoaded', function(){
+    var slider = document.querySelector('.hero-slider');
+    if(!slider) return;
+    var slides = Array.from(slider.querySelectorAll('.hero-slide'));
+    if(slides.length < 2) return; // nothing to rotate
+    var idx = 0;
+    var delay = parseInt(slider.getAttribute('data-delay')||'2000',10);
+    var timer;
+    function show(i){
+        slides[idx].classList.remove('is-active');
+        slides[idx].setAttribute('aria-hidden','true');
+        idx = (i+slides.length)%slides.length;
+        slides[idx].classList.add('is-active');
+        slides[idx].setAttribute('aria-hidden','false');
+    }
+    function next(){ show(idx+1);} 
+    function prev(){ show(idx-1);} 
+    function start(){ stop(); timer = setInterval(next, delay); }
+    function stop(){ if(timer) clearInterval(timer); }
+    slider.querySelector('.hero-next').addEventListener('click', function(){ next(); start(); });
+    slider.querySelector('.hero-prev').addEventListener('click', function(){ prev(); start(); });
+    // Start autoplay
+    start();
+    // Pause on hover for accessibility
+    slider.addEventListener('mouseenter', stop);
+    slider.addEventListener('mouseleave', start);
+});
+</script>
   
 
 
