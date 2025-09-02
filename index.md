@@ -5,7 +5,14 @@ layout: page
 show_sidebar: false
 hide_footer: false
 hero_height: is-large
-hero_image: /img/homepage_slideshow_v2.gif
+hero_images:
+  - assets/img/hero/fingertipandmagnet-scaled
+  - assets/img/hero/hands-soft
+  - assets/img/hero/KIMG1208
+  - assets/img/hero/PXL_20241001_174418556.MP
+  - assets/img/hero/PullTest
+  - assets/img/hero/RoboLoom
+hero_alt: Lab equipment and hands interacting with soft materials
 
 hero_link: /research/
 hero_link_text: See Our Research
