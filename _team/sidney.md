@@ -2,7 +2,7 @@
 title: Sidney Nimako
 subtitle: Master's Student
 job_title: Master's Student
-category: master_student
+category: graduate_alumni
 layout: team_member_personal_page
 image: /img/team/NimakoHeadshot.png
 link-new-tab: true

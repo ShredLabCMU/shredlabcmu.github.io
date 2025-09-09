@@ -28,7 +28,7 @@ Edit the `_bibliography/references.bib` file to add your bibtex and commit to `m
 # To submit once you are done
 ```bash
 $ git add . 
-$ git commit -m 'Updateed source code'
+$ git commit -m 'Updated source code'
 $ git push origin master 
 ```
 
