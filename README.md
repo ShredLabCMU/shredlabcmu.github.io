@@ -25,12 +25,18 @@ Adding your profile is very simple. First follow the instructions above and laun
 # Adding your publication
 Edit the `_bibliography/references.bib` file to add your bibtex and commit to `master`.
 
-# To submit once you are done
+
+# Deploying your changes
+Use the deploy script to build and push both `gh-pages` and `master` branches. You can provide a commit message as an argument, or it will default to a timestamped message.
+
 ```bash
-$ git add . 
-$ git commit -m 'Updated source code'
-$ git push origin master 
+bash shred_deploy_with_no_interaction.sh "Your commit message here"
 ```
+Or simply:
+```bash
+bash shred_deploy_with_no_interaction.sh
+```
+and it will use a message like `Update YYYY-MM-DD HH:MM:SS`.
 
 ## Optimizing Hero Images (Responsive, High Quality)
 
