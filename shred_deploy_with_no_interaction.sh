@@ -24,13 +24,17 @@ current_branch=$(git symbolic-ref --short -q HEAD)
 # Check which branch you are on
 echo $current_branch #this should be gh-pages
 
+
+# commit message argument, default to current state
+COMMIT_MSG="${1:-Update $(date '+%Y-%m-%d %H:%M:%S')}"
+
 # commit and push to gh-pages
-git add . && git commit -m "Update gh-pages"
+git add . && git commit -m "$COMMIT_MSG"
 git push
 
 # cd back to base folder
 cd ..
 
 # push the master branch after you have pushed the gh-pages branch
-git add . && git commit -m "Update master"
+git add . && git commit -m "$COMMIT_MSG"
 git push origin master
