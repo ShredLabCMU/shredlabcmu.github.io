@@ -1,7 +1,7 @@
 ---
 title: Ana
-subtitle: Visiting Scholar
-job_title: Visiting Scholar
+subtitle: Undergrad
+job_title: Research Assistant, RISS '21 and '22
 category: previous_intern
 layout: team_member_personal_page
 image: /img/team/ana.png

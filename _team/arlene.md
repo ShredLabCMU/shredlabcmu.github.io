@@ -1,7 +1,7 @@
 ---
 title: Arlene Reyes
-subtitle: Visiting Scholar
-job_title: Visiting Scholar
+subtitle: Undergrad
+job_title: Research Assistant, RISS '25
 category: visitor
 layout: team_member_personal_page
 image: /img/team/Arlene.png

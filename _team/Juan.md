@@ -1,8 +1,8 @@
 ---
 title: Juan Robles
-subtitle: Visiting Scholar
-job_title: Visiting Scholar
-category: visitor
+subtitle: Undergrad
+job_title: Research Assistant, RISS '21 and '22
+category: previous_visitor
 layout: team_member_personal_page
 image: /img/team/Juan.png
 link-new-tab: true

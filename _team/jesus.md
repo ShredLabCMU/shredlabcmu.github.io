@@ -1,8 +1,8 @@
 ---
 title: Jesus Guerrero
-subtitle: Visiting Scholar
-job_title: Visiting Scholar
-category: visitor
+subtitle: Undergrad
+job_title: Research Assistant, RISS '25
+category: previous_visitor
 layout: team_member_personal_page
 image: /img/team/Jesus.png
 link-new-tab: true

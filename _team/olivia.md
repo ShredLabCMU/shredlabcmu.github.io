@@ -1,7 +1,7 @@
 ---
 title: Olivia Sobek
-subtitle: Visiting Scholar
-job_title: Visiting Scholar
+subtitle: Undergrad
+job_title: Research Assistant, RISS '24
 category: visitor
 layout: team_member_personal_page
 image: /img/team/Olivia.png

@@ -1,7 +1,7 @@
 ---
 title: Isaac Osei
-subtitle: Visiting Scholar
-job_title: Visiting Scholar
+subtitle: Undergrad
+job_title: Research Assistant
 category: visitor
 layout: team_member_personal_page
 image: /img/team/isaac_new.png
