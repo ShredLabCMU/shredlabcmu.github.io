@@ -1,10 +1,10 @@
 ---
-title: Hamming Zhang
+title: Hanming Zhang
 subtitle: Master's Student
 job_title: Master's Student
 category: master_student
 layout: team_member_personal_page
-image: /img/team/Hamming.png
+image: /img/team/Hanming.png
 link-new-tab: true
 ---
 
