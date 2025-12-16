@@ -14,7 +14,7 @@ title_image: None
 link-new-tab: true
 ---
 
-Congratulations to Dr. Speer who has succesufully defended her PhD Thesis!
+Congratulations to Dr. Speer who has successfully defended her PhD Thesis!
 
 Her thesis entitled "Robotic System Design Principles for Human-Human Collaboration",  investigates how robots can be designed to support collaboration between users during assembly tasks. Drawing from cognitive theories used in the disciplines of Computer-Supported Collaborative Work (CSCW), Computer-Supported Collaborative Learning (CSCL), Educational Robotics, and Human-Robot Interaction (HRI), it establishes a set of theoretically grounded design principles. I present the empirically validated effect of these design principles on collaboration during various assembly tasks.
 
