@@ -9,7 +9,7 @@ link-new-tab: true
 published: true
 ---
 
-Hi! I am a freshman in SCS currently working in data acquisition for the IDEATE: Recrafting Soft Technologies course at cmu
+Hi! I am a freshman in SCS currently working in data acquisition for the IDEATE: Recrafting Soft Technologies course at CMU.
 
 **Email**: [eealvare@andrew.cmu.edu](mailto:eealvare@andrew.cmu.edu)
 
