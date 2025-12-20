@@ -1,5 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shredlabcmu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shredlabcmu.github.io/" rel="alternate" type="text/html" /><updated>2025-12-16T01:13:41-05:00</updated><id>https://shredlabcmu.github.io/feed.xml</id><title type="html">SHREDLab</title><subtitle>Researching haptic technologies with social and educational impact at Carnegie Mellon University
-</subtitle><entry><title type="html">Soft Magnetic Actuator</title><link href="https://shredlabcmu.github.io/research/soft/" rel="alternate" type="text/html" title="Soft Magnetic Actuator" /><published>2025-02-03T05:40:07-05:00</published><updated>2025-02-03T05:40:07-05:00</updated><id>https://shredlabcmu.github.io/research/soft-magnetic-actuators</id><content type="html" xml:base="https://shredlabcmu.github.io/research/soft/">&lt;p&gt;Soft Magnetic Actuator for Haptics.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shredlabcmu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shredlabcmu.github.io/" rel="alternate" type="text/html" /><updated>2025-12-20T17:42:23-05:00</updated><id>https://shredlabcmu.github.io/feed.xml</id><title type="html">SHREDLab</title><subtitle>Researching haptic technologies with social and educational impact at Carnegie Mellon University
+</subtitle><entry><title type="html">PhD Defense: Sarah Costrell</title><link href="https://shredlabcmu.github.io/Sarah-Defense/" rel="alternate" type="text/html" title="PhD Defense: Sarah Costrell" /><published>2025-12-16T07:00:00-05:00</published><updated>2025-12-16T07:00:00-05:00</updated><id>https://shredlabcmu.github.io/SarahDefense</id><content type="html" xml:base="https://shredlabcmu.github.io/Sarah-Defense/">&lt;p&gt;Congratulations to Dr. Costrell who has successfully defended her PhD Thesis!&lt;/p&gt;
+
+&lt;p&gt;Her dissertation presents novel soft materials-based approaches using magnetism to create compelling touch experiences, in particular, the development of soft, flexible composites made from oil-based polymers mixed with magnetic particles that behave as actuators in an external magnetic field. These materials have been integrated into wearable fingertip sheaths that produce haptic cues in response to driving magnetic forces, allowing users to feel virtual textural sensations. The culmination of this research is in a device called MAGTRACE (MAGnetic Texture Rendering for Active Contact and Exploration) that lets users actively explore various dynamically rendered macroscale virtual textures. Initial human studies showed that using only the sheaths and a single electromagnet, participants could clearly discern variations in the applied magnetic signal magnitude, enabling communication of a range of haptic sensation levels. A follow-on study with MAGTRACE showed that users could accurately identify different waveform shapes at varying sizes, validating device rendering of discernible macroscale haptic textures. These results demonstrate that this new class of soft magnetic wearables constitutes an effective device design paradigm for applications in virtual reality and teleoperation.&lt;/p&gt;
+
+&lt;!-- You can visit her thesis work at: [https://www.ri.cmu.edu/publications/robotic-system-design-principles-for-human-human-collaboration/](https://www.ri.cmu.edu/publications/robotic-system-design-principles-for-human-human-collaboration/) --&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2025-12-14-sarah-defense/sarahscommitte.jpeg&quot; /&gt;
+    &lt;figcaption&gt;
+        Sarah and her Thesis Committee: From left to right Carmel Majidi, Sarah Costrell, Melisa Orta Martinez, Sam Speer, Jim McCann, Melisa Orta Martinez, Daphne Chan and Roberta Klatzky.   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;!-- ## Contact
+
+ - [William Scott](/team/will/) &lt;wscott2 [at] cmu [dot] edu&gt; --&gt;</content><author><name>SHRED Lab</name></author><category term="highlights" /><summary type="html">Congratulations to Dr. Costrell who has successfully defended her PhD Thesis!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2025-12-14-sarah-defense/sarahscommitte.jpeg" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2025-12-14-sarah-defense/sarahscommitte.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">PhD Defense: Samantha Speer</title><link href="https://shredlabcmu.github.io/Sam-Defense/" rel="alternate" type="text/html" title="PhD Defense: Samantha Speer" /><published>2025-12-14T07:00:00-05:00</published><updated>2025-12-14T07:00:00-05:00</updated><id>https://shredlabcmu.github.io/SamDefense</id><content type="html" xml:base="https://shredlabcmu.github.io/Sam-Defense/">&lt;p&gt;Congratulations to Dr. Speer who has successfully defended her PhD Thesis!&lt;/p&gt;
+
+&lt;p&gt;Her thesis entitled “Robotic System Design Principles for Human-Human Collaboration”,  investigates how robots can be designed to support collaboration between users during assembly tasks. Drawing from cognitive theories used in the disciplines of Computer-Supported Collaborative Work (CSCW), Computer-Supported Collaborative Learning (CSCL), Educational Robotics, and Human-Robot Interaction (HRI), it establishes a set of theoretically grounded design principles. I present the empirically validated effect of these design principles on collaboration during various assembly tasks.&lt;/p&gt;
+
+&lt;p&gt;You can visit her thesis work at: &lt;a href=&quot;https://www.ri.cmu.edu/publications/robotic-system-design-principles-for-human-human-collaboration/&quot;&gt;https://www.ri.cmu.edu/publications/robotic-system-design-principles-for-human-human-collaboration/&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2025-12-14-sam-defense/sam-defense.jpg&quot; /&gt;
+    &lt;figcaption&gt;
+        Sam and her Thesis Committee: From left to right Sam Speer, Jim McCann, Melisa Orta Martinez, Illah Nourbakhsh and Kylie Peppler (joining us virtually).   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;!-- ## Contact
+
+ - [William Scott](/team/will/) &lt;wscott2 [at] cmu [dot] edu&gt; --&gt;</content><author><name>SHRED Lab</name></author><category term="highlights" /><summary type="html">Congratulations to Dr. Speer who has successfully defended her PhD Thesis!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2025-12-14-sam-defense/sam-defense.jpg" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2025-12-14-sam-defense/sam-defense.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Soft Magnetic Actuator</title><link href="https://shredlabcmu.github.io/research/soft/" rel="alternate" type="text/html" title="Soft Magnetic Actuator" /><published>2025-02-03T05:40:07-05:00</published><updated>2025-02-03T05:40:07-05:00</updated><id>https://shredlabcmu.github.io/research/soft-magnetic-actuators</id><content type="html" xml:base="https://shredlabcmu.github.io/research/soft/">&lt;p&gt;Soft Magnetic Actuator for Haptics.&lt;/p&gt;
 
 &lt;p&gt;Current tactile haptic displays are either able to render tangential and normal forces in one area of actuation on the fingertip, or normal forces in multiple areas of independent actuation, but cannot provide different kinds of forces in multiple independent areas of actuation. We are currently fabricating actuators using very low modulus materials together with magnetic particles to create weakly polarized flexible magnets. These materials respond with attraction or repulsion depending on the direction of the applied magnetic field and can apply shear or normal forces depending on the placement of external electromagnets. We are also developing apparatuses in which to test these materials for efficacy in texture rendering.&lt;/p&gt;
 
@@ -195,68 +223,4 @@ Our interface integrates four key components: a haptic device, a high-level simu
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/team/michael/&quot;&gt;Woongseok (Michael) Han&lt;/a&gt; &lt;a href=&quot;mailto:woongseh@andrew.cmu.edu&quot;&gt;woongseh@andrew.cmu.edu&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/team/melisa/&quot;&gt;Melisa Orta Martinez&lt;/a&gt; - &lt;a href=&quot;mailto:mortamar@andrew.cmu.edu&quot;&gt;mortamar@andrew.cmu.edu&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>SHRED Lab</name></author><category term="research" /><summary type="html">Haptic Mouse is a prototype of a mouse that uses touch feedback to render digital graphical content for blind and low-vision users. Our intent is to develop an open-source tool that aids blind and low-vision students in learning abstract concepts that are hard to grasp without visualizations. Through our device, students can dynamically interact with abstract concepts such as mathematical functions, physical and chemical equations, among others using their sense of touch. Diagram of the Delta Robot mechanism used in the Haptic Mouse We have designed a mouse capable of rendering rich haptic effects through a delta mechanism which replaces the standard mouse button.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2022-05-02-haptic-blind/labels.png" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2022-05-02-haptic-blind/labels.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Wireless Communication PCB Design</title><link href="https://shredlabcmu.github.io/research/pcb-design/" rel="alternate" type="text/html" title="Wireless Communication PCB Design" /><published>2024-08-14T08:00:00-04:00</published><updated>2024-08-14T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/research/pcb-design</id><content type="html" xml:base="https://shredlabcmu.github.io/research/pcb-design/">&lt;!-- Blind and low vision STEM education is hindered by an inability to engage with visual representations of STEM concepts. Our sense of touch provides us with a separate, distributed channel that could allow us to convey abstract STEM concepts non-visually. We propose using robot-mediated haptics to enable blind and low vision students to engage in STEM education through hands-on, interactive learning. --&gt;
-&lt;p&gt;This projects was mainly developed during the summer of 2024 as part of the &lt;a href=&quot;https://riss.ri.cmu.edu/&quot;&gt;RISS program&lt;/a&gt; at Carnegie Mellon University by &lt;a href=&quot;/team/olivia&quot;&gt;Olivia Sobek&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Exploring the use of LoRa (Long Range) wireless communication for search-and-rescue missions. The system involves heterogeneous robot collaboration, utilizing centimeter-scale spherical robots that interface with an inflatable vine robot developed by Purdue University. These robots will work collectively to navigate and gather data in challenging environments. In this case, each spherical robot may carry specific sensors, and data will be transmitted wirelessly to a handheld receiver held by a rescue operator.&lt;/p&gt;
-
-&lt;p&gt;The communication system leverages LoRa technology, which operates around 900 MHz and uses chirp spread spectrum (CSS) modulation. This technique ensures robust, interference-resistant communication over ranges of up to 10-15 kilometers (6-9 miles), making it well-suited for long-range, low-power, and low-data-rate applications.&lt;/p&gt;
-
-&lt;p&gt;The design includes the development of three custom PCBs:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Receiver PCB: A handheld, wireless device equipped with an ATMEGA328 microcontroller, a LoRa module, and an OLED display to show live sensor data from the robots.&lt;/li&gt;
-  &lt;li&gt;Transmitter 1 PCB: Mounted on a spherical robot, featuring an ATMEGA328, a LoRa module, and sensors for air quality (CCS811) and metal oxide gas detection (ENS160).&lt;/li&gt;
-  &lt;li&gt;Transmitter 2 PCB: Also mounted on a spherical robot, incorporating an ATMEGA328, a LoRa module, a flammable gas sensor (MQS), and an I2S microphone.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The PCBs were designed to be compact, measuring 1–2 inches in each dimension, to match the scale of the robots. The initial design used 3.7-volt batteries and 3.3-volt regulators. However, after troubleshooting, Switched to 5-volt regulators and 7-volt batteries, as explained later in this report. Used Altium Designer to create schematics and layouts.&lt;/p&gt;
-
-&lt;p&gt;Check out our &lt;a href=&quot;/img/posts/2024-08-20-pcb-design/rissposter.png&quot;&gt;poster&lt;/a&gt; and &lt;a href=&quot;/img/posts/2024-08-20-pcb-design/risspaper.pdf&quot;&gt;Working Paper Journal&lt;/a&gt; for more information.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/img/posts/2024-08-20-pcb-design/2024-RISS-SOBEK-Olivia-research.jpg&quot; /&gt;
-    &lt;!-- &lt;img src=&quot;/img/posts/2022-05-02-haptic-blind/DeltaMech.png&quot; /&gt; --&gt;
-    &lt;figcaption&gt;
-        Our PCB mounted on a spherical robot.
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;/img/posts/2024-08-20-pcb-design/design.png&quot; /&gt;
-    &lt;!-- &lt;img src=&quot;/img/posts/2022-05-02-haptic-blind/DeltaMech.png&quot; /&gt; --&gt;
-    &lt;figcaption&gt;
-       PCB design.
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;!-- &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/cMkF67OGzsE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; --&gt;
-&lt;!-- &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/eGMqdWkUY98&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; --&gt;
-&lt;!-- https://youtube.com/shorts/eGMqdWkUY98?feature=share --&gt;
-
-&lt;h3 id=&quot;contact&quot;&gt;Contact&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/team/olivia/&quot;&gt;Olivia Sobek&lt;/a&gt; -  &lt;a href=&quot;mailto:osobeck@andrew.cmu.edu&quot;&gt;osobeck@andrew.cmu.edu&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/team/melisa/&quot;&gt;Melisa Orta Martinez&lt;/a&gt; - &lt;a href=&quot;mailto:mortamar@andrew.cmu.edu&quot;&gt;mortamar@andrew.cmu.edu&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>SHRED Lab</name></author><category term="research" /><summary type="html">This projects was mainly developed during the summer of 2024 as part of the RISS program at Carnegie Mellon University by Olivia Sobek.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2024-08-20-pcb-design/IMG_8759.jpg" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2024-08-20-pcb-design/IMG_8759.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Air Quality Monitoring Community Workshop</title><link href="https://shredlabcmu.github.io/air-quality/" rel="alternate" type="text/html" title="Air Quality Monitoring Community Workshop" /><published>2024-07-25T08:00:00-04:00</published><updated>2024-07-25T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/airquality</id><content type="html" xml:base="https://shredlabcmu.github.io/air-quality/">&lt;h1 id=&quot;air-quality-monitoring&quot;&gt;Air Quality Monitoring&lt;/h1&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/img/posts/2024-07-25-airquality/KIMG1208.JPG&quot; /&gt;
-    &lt;figcaption&gt;
-        Lab members working with the community.
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
-&lt;p&gt;We understand the city of Pittsburgh along with the greater Pittsburgh area has historically suffered from poor/hazardous air quality conditions, stemming from the prolific rise and fall of the US steel industry. However, despite previous economic initiatives to rectify the air quality of the region, we acknowledge the active ongoing harm to our neighborhood communities by the U.S. Steel facilities known as the Clairton Coke Works and the Irvin and Edgar Thomson steel mills [1]. We are motivated to empower our youth to learn fundamental engineering and software concepts to develop a cluster of air-quality monitoring units to better assess, record, and understand their built environment to make more informed decisions on their health and safety.
-[1] Douglas H. Phelps, President and Executive Director, Phelps, D. H., &amp;amp; Director, P. and E. (2024, January 29). Cleaner Air in Steel City. The Public Interest Network. &lt;a href=&quot;https://publicinterestnetwork.org/articles/cleaner-air-in-steel-city/&quot;&gt;https://publicinterestnetwork.org/articles/cleaner-air-in-steel-city/&lt;/a&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/img/posts/2024-07-25-airquality/KIMG1211.JPG&quot; /&gt;
-    &lt;figcaption&gt;
-        Our lab head, Melisa, helping out a community member.
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/team/will/&quot;&gt;William Scott&lt;/a&gt; &amp;lt;wscott2 [at] cmu [dot] edu&amp;gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>William Scott</name></author><category term="teaching" /><category term="highlights" /><summary type="html">Air Quality Monitoring</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2024-07-25-airquality/KIMG1208.JPG" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2024-07-25-airquality/KIMG1208.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/ul&gt;</content><author><name>SHRED Lab</name></author><category term="research" /><summary type="html">Haptic Mouse is a prototype of a mouse that uses touch feedback to render digital graphical content for blind and low-vision users. Our intent is to develop an open-source tool that aids blind and low-vision students in learning abstract concepts that are hard to grasp without visualizations. Through our device, students can dynamically interact with abstract concepts such as mathematical functions, physical and chemical equations, among others using their sense of touch. Diagram of the Delta Robot mechanism used in the Haptic Mouse We have designed a mouse capable of rendering rich haptic effects through a delta mechanism which replaces the standard mouse button.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2022-05-02-haptic-blind/labels.png" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2022-05-02-haptic-blind/labels.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
