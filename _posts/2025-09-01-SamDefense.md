@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "PhD Defense: Samantha Speer"
-date: 2023-09-29 12:00:00
-categories: [teaching,highlights]
+date: 2025-12-14 12:00:00
+categories: [highlights]
 description: "PhD Thesis Defense"
 author: "SHRED Lab"
 published: true
@@ -23,7 +23,7 @@ You can visit her thesis work at: [https://www.ri.cmu.edu/publications/robotic-s
 <figure>
     <img src="/img/posts/2025-12-14-sam-defense/sam-defense.jpg" />
     <figcaption>
-        Sam and her Thesis Committee: From left to right Sam Speer, Jim McCann, Melisa Orta Martinez, Illah Nourbakhsh and Kylie Peppler (joining us virtually)   </figcaption>
+        Sam and her Thesis Committee: From left to right Sam Speer, Jim McCann, Melisa Orta Martinez, Illah Nourbakhsh and Kylie Peppler (joining us virtually).   </figcaption>
 </figure>
 
 
