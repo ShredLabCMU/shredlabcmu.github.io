@@ -25,7 +25,7 @@ You can read her thesis here: [Sarah Costrell PhD Thesis](/papers/Sarah_Costrell
 <figure>
     <img src="/img/posts/2025-12-14-sarah-defense/sarahscommitte.jpeg" />
     <figcaption>
-        Sarah and her Thesis Committee: From left to right Carmel Majidi, Sarah Costrell, Melisa Orta Martinez, Sam Speer, Jim McCann, Melisa Orta Martinez, Daphne Chan and Roberta Klatzky.   </figcaption>
+        Sarah and her Thesis Committee: From left to right Carmel Majidi, Sarah Costrell, Melisa Orta Martinez, Daphne Chan and Roberta Klatzky.   </figcaption>
 </figure>
 
 
