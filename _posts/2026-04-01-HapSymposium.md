@@ -14,13 +14,13 @@ title_image: None
 link-new-tab: true
 ---
 
-Congratulations to Sarah Costrell for winning Best Demonstration award at the 2026 Haptics Symposium!
-This award was given to her after an exiting demo preseting MagTrace to the attendees 
+Congratulations to Sarah Costrell for winning the Best Demonstration award at the 2026 Haptics Symposium!
+This award was given to her after an exciting demo presenting MagTrace to the attendees.
 
 <figure>
     <img src="/img/posts/2026-04-01-DemoHapSymposium/20260401_115917_upscayl_2x_ultrasharp-4x.png" />
     <figcaption>
-        Sarah Costrell,PhD and professor Melisa Orta Martinez</figcaption>
+        Sarah Costrell, PhD and Professor Melisa Orta Martinez</figcaption>
 </figure>
 
 <!-- ## Contact
