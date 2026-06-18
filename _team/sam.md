@@ -2,7 +2,7 @@
 title: Samantha Speer
 subtitle: Ph.D. Student
 job_title: Ph.D. Student
-category: phd_student
+category: graduate_alumni
 layout: team_member_personal_page
 image: /img/team/Sam_new.png
 link-new-tab: true

@@ -1,8 +1,8 @@
 ---
 title: Juan Robles
 subtitle: Undergrad
-job_title: Research Assistant, RISS '21 and '22
-category: previous_visitor
+job_title: Research Assistant, RISS '25 and '26
+category: visitor
 layout: team_member_personal_page
 image: /img/team/Juan.png
 link-new-tab: true

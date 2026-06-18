@@ -2,7 +2,7 @@
 title: Olivia Sobek
 subtitle: Undergrad
 job_title: Research Assistant, RISS '24
-category: visitor
+category: previous_visitor
 layout: team_member_personal_page
 image: /img/team/Olivia.png
 link-new-tab: true

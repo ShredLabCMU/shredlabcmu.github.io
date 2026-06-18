@@ -2,7 +2,7 @@
 title: Miles Mufuka Martin
 subtitle: Robotics Institute Pathways Fellow
 job_title: Entrepreneur & Pathways Fellow
-category: master_student
+category: graduate_alumni
 layout: team_member_personal_page
 image: /img/team/Miles-640x480-shred-image.png
 link-new-tab: true
