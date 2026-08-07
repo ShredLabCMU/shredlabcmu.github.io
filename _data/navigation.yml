@@ -9,6 +9,9 @@
   link: /research/
 - name: Publications
   link: /publications/
+
+- name: Open Source
+  link: /open-source/
 #- name: Seminars
 #  dropdown:
 #    - name: Tartan SLAM Series Fall Edition
