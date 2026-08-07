@@ -1,5 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shredlabcmu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shredlabcmu.github.io/" rel="alternate" type="text/html" /><updated>2026-08-05T19:45:56-04:00</updated><id>https://shredlabcmu.github.io/feed.xml</id><title type="html">SHREDLab</title><subtitle>Researching haptic technologies with social and educational impact at Carnegie Mellon University
-</subtitle><entry><title type="html">Haptics Symposium Best Demonstration Award</title><link href="https://shredlabcmu.github.io/haptics-symposium-best-demonstration-award/" rel="alternate" type="text/html" title="Haptics Symposium Best Demonstration Award" /><published>2026-04-01T08:00:00-04:00</published><updated>2026-04-01T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/HapSymposium</id><content type="html" xml:base="https://shredlabcmu.github.io/haptics-symposium-best-demonstration-award/">&lt;p&gt;Congratulations to Sarah Costrell for winning the Best Demonstration award at the 2026 Haptics Symposium!
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shredlabcmu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shredlabcmu.github.io/" rel="alternate" type="text/html" /><updated>2026-08-07T17:20:25-04:00</updated><id>https://shredlabcmu.github.io/feed.xml</id><title type="html">SHREDLab</title><subtitle>Researching haptic technologies with social and educational impact at Carnegie Mellon University
+</subtitle><entry><title type="html">Design and Evaluation of an Open-Source Haptic Mouse for Geometry Learning</title><link href="https://shredlabcmu.github.io/open-source/haptic-mouse/" rel="alternate" type="text/html" title="Design and Evaluation of an Open-Source Haptic Mouse for Geometry Learning" /><published>2026-08-07T08:00:00-04:00</published><updated>2026-08-07T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/open-source/haptic-mouse-open-source</id><content type="html" xml:base="https://shredlabcmu.github.io/open-source/haptic-mouse/">&lt;p&gt;The Haptic Mouse is an open-source, three-degree-of-freedom (3-DOF) haptic interface designed for low-cost fabrication and active exploration of 2-D digital graphics by blind and visually impaired (BVI) students. Developed to overcome barriers in STEM education, this device specifically aids in geometry instruction.&lt;/p&gt;
+
+&lt;p&gt;Through a custom 3D-printed delta parallel mechanism, the mouse renders contours, reference points, and enclosed regions using multimodal haptic cues, such as stiffness changes and directional oscillations. It also incorporates auditory feedback (white noise) to support spatial reorientation when the user’s cursor moves away from a target.&lt;/p&gt;
+
+&lt;p&gt;A dedicated Graphical User Interface (GUI) allows instructors to configure shapes (such as rectangles, triangles, and circles), modify geometric parameters in real time, and monitor a student’s exploration to provide timely guidance.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2026-08-07-haptic-mouse-opensource/Haptic_Figure1.jpeg&quot; /&gt;
+    &lt;figcaption&gt;
+    The Haptic Mouse is an open-source, 3D-printed haptic interface designed for geometry instruction. Users move the device to control an on screen cursor via an attached tracking pen; a delta mechanism provides haptic cues, and a GUI presents the geometrical elements and records and displays users interactions so instructors can provide feedback.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2026-08-07-haptic-mouse-opensource/Haptic_Evolution.jpeg&quot; /&gt;
+    &lt;figcaption&gt;
+    The delta mechanism design incorporates features that minimize the number of hardware components. (A) The motor is securely attached to the base through a cantilever snap fit. (B) Cylindrical snap fits secure the ball bearings within each base leg. (C) Similar cylindrical snap fits are used to connect the end-effector to the flexural parallelogram linkage arms. (D) The base legs have a clearance-fit joint to the flexural legs which connect to each other with a press-fit joint.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;open-source-files-bom-and-stls&quot;&gt;Open-Source Files (BOM and STLs)&lt;/h3&gt;
+&lt;p&gt;The Haptic Mouse is open-source. The complete Bill of Materials (BOM) and the custom part files (STLs) are available for download below.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bill of Materials&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/open-source/haptic-mouse/Haptic_Mouse_BOM.pdf&quot;&gt;Haptic Mouse Component BOM (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;3D-printed parts (STL)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Part&lt;/th&gt;
+      &lt;th&gt;File&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Base&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;/assets/open-source/haptic-mouse/stl/base_V3.STL&quot;&gt;base_V3.STL&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Base leg (×3)&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;/assets/open-source/haptic-mouse/stl/baseleg_V2.STL&quot;&gt;baseleg_V2.STL&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Flexure half A (×3)&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;/assets/open-source/haptic-mouse/stl/flexure_half_V2.STL&quot;&gt;flexure_half_V2.STL&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Flexure half B (×3)&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;/assets/open-source/haptic-mouse/stl/flexure_half_V2_2.STL&quot;&gt;flexure_half_V2_2.STL&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;End-effector top&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;/assets/open-source/haptic-mouse/stl/top.STL&quot;&gt;top.STL&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mouse bottom assembly&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;/assets/open-source/haptic-mouse/stl/Mouse_Bottom_assembly.STL&quot;&gt;Mouse_Bottom_assembly.STL&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mouse top&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;/assets/open-source/haptic-mouse/stl/Mouse_Top.STL&quot;&gt;Mouse_Top.STL&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tracking pen case&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;/assets/open-source/haptic-mouse/stl/Pen_case.STL&quot;&gt;Pen_case.STL&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2026-08-07-haptic-mouse-opensource/Haptic_Prototype.jpeg&quot; /&gt;
+    &lt;figcaption&gt;
+    The assembled Haptic Mouse prototype.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;contact&quot;&gt;Contact&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/team/michael/&quot;&gt;Woongseok (Michael) Han&lt;/a&gt; &lt;a href=&quot;mailto:woongseh@andrew.cmu.edu&quot;&gt;woongseh@andrew.cmu.edu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/team/melisa/&quot;&gt;Melisa Orta Martinez&lt;/a&gt; - &lt;a href=&quot;mailto:mortamar@andrew.cmu.edu&quot;&gt;mortamar@andrew.cmu.edu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>SHRED Lab</name></author><category term="open-source" /><summary type="html">The Haptic Mouse is an open-source, three-degree-of-freedom (3-DOF) haptic interface designed for low-cost fabrication and active exploration of 2-D digital graphics by blind and visually impaired (BVI) students. Developed to overcome barriers in STEM education, this device specifically aids in geometry instruction.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2026-08-07-haptic-mouse-opensource/Haptic_Prototype.jpeg" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2026-08-07-haptic-mouse-opensource/Haptic_Prototype.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Haptics Symposium Best Demonstration Award</title><link href="https://shredlabcmu.github.io/haptics-symposium-best-demonstration-award/" rel="alternate" type="text/html" title="Haptics Symposium Best Demonstration Award" /><published>2026-04-01T08:00:00-04:00</published><updated>2026-04-01T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/HapSymposium</id><content type="html" xml:base="https://shredlabcmu.github.io/haptics-symposium-best-demonstration-award/">&lt;p&gt;Congratulations to Sarah Costrell for winning the Best Demonstration award at the 2026 Haptics Symposium!
 This award was given to her after an exciting demo presenting MagTrace to the attendees.&lt;/p&gt;
 
 &lt;figure&gt;
@@ -202,29 +286,4 @@ Mygenet Harris --&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://ideate.cmu.edu/about/people/participating-educators/olivia-robinson.html&quot;&gt;Olivia Robinson&lt;/a&gt; - &lt;a href=&quot;mailto:orobinso@andrew.cmu.edu&quot;&gt;orobinso@andrew.cmu.edu&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Melisa Orta Martinez</name></author><category term="teaching" /><summary type="html">Re-Crafting Computational Thinking with Soft Technologies focuses on teaching introductory concepts of Robotics, Mechatronics, and Computer Science using an arts-based approach. During the course, you will build a weaving robot, program it, and explore how weaving is connected to computer programming and matrix mathematics. You will also learn the history of weaving, how to design dynamic patterns, and how to extract the features of those patterns into mathematical equations and computer programs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2025-02-04-ideate-soft/hands-soft.jpeg" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2025-02-04-ideate-soft/hands-soft.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Rescue Rollers</title><link href="https://shredlabcmu.github.io/research/rescue-rollers/" rel="alternate" type="text/html" title="Rescue Rollers" /><published>2025-02-01T07:00:00-05:00</published><updated>2025-02-01T07:00:00-05:00</updated><id>https://shredlabcmu.github.io/research/rescue-rollers</id><content type="html" xml:base="https://shredlabcmu.github.io/research/rescue-rollers/">&lt;p&gt;Rescue Rollers are centimeter scale robots designed to operate in unstructured environments for search and rescue. We are exploring how we can achieve robust locomotion with robots of this size after natural disasters. By leveraging their size and a suite of sensing capabilities, a swarm of Rescue Rollers can help first-responders safely and efficiently locate and recover survivors. Rescue Rollers are also part of a symbiotic system with vine robots. They provide steering and enhanced sensing capabilities, while the vine robots allow for efficient large scale locomotion and power for the centi-robots.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/img/posts/2025-02-01-rescue-rollers/ExplodedIsometric.png&quot; /&gt;
-    &lt;!-- &lt;img src=&quot;/img/posts/2022-05-02-haptic-blind/DeltaMech.png&quot; /&gt; --&gt;
-    &lt;figcaption&gt;
-        Exploded Isometric View of our Rescue Roller.
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;/img/posts/2025-02-01-rescue-rollers/Deploy.png&quot; /&gt;
-    &lt;!-- &lt;img src=&quot;/img/posts/2022-05-02-haptic-blind/DeltaMech.png&quot; /&gt; --&gt;
-    &lt;figcaption&gt;
-       Deployment of our rescue roller using via Vine Robot.
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;!-- &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/cMkF67OGzsE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; --&gt;
-&lt;!-- &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/eGMqdWkUY98&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; --&gt;
-&lt;!-- https://youtube.com/shorts/eGMqdWkUY98?feature=share --&gt;
-
-&lt;h3 id=&quot;contact&quot;&gt;Contact&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/team/sidney/&quot;&gt;Sidney Nimako&lt;/a&gt; -  &lt;a href=&quot;mailto:snimakob@andrew.cmu.edu&quot;&gt;snimakob@andrew.cmu.edu&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/team/melisa/&quot;&gt;Melisa Orta Martinez&lt;/a&gt; - &lt;a href=&quot;mailto:mortamar@andrew.cmu.edu&quot;&gt;mortamar@andrew.cmu.edu&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>SHRED Lab</name></author><category term="research" /><summary type="html">Rescue Rollers are centimeter scale robots designed to operate in unstructured environments for search and rescue. We are exploring how we can achieve robust locomotion with robots of this size after natural disasters. By leveraging their size and a suite of sensing capabilities, a swarm of Rescue Rollers can help first-responders safely and efficiently locate and recover survivors. Rescue Rollers are also part of a symbiotic system with vine robots. They provide steering and enhanced sensing capabilities, while the vine robots allow for efficient large scale locomotion and power for the centi-robots.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2025-02-01-rescue-rollers/soft_rescue.png" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2025-02-01-rescue-rollers/soft_rescue.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/ul&gt;</content><author><name>Melisa Orta Martinez</name></author><category term="teaching" /><summary type="html">Re-Crafting Computational Thinking with Soft Technologies focuses on teaching introductory concepts of Robotics, Mechatronics, and Computer Science using an arts-based approach. During the course, you will build a weaving robot, program it, and explore how weaving is connected to computer programming and matrix mathematics. You will also learn the history of weaving, how to design dynamic patterns, and how to extract the features of those patterns into mathematical equations and computer programs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://shredlabcmu.github.io/img/posts/2025-02-04-ideate-soft/hands-soft.jpeg" /><media:content medium="image" url="https://shredlabcmu.github.io/img/posts/2025-02-04-ideate-soft/hands-soft.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
