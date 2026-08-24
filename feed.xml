@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shredlabcmu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shredlabcmu.github.io/" rel="alternate" type="text/html" /><updated>2026-08-07T17:20:25-04:00</updated><id>https://shredlabcmu.github.io/feed.xml</id><title type="html">SHREDLab</title><subtitle>Researching haptic technologies with social and educational impact at Carnegie Mellon University
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shredlabcmu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shredlabcmu.github.io/" rel="alternate" type="text/html" /><updated>2026-08-24T13:22:29-04:00</updated><id>https://shredlabcmu.github.io/feed.xml</id><title type="html">SHREDLab</title><subtitle>Researching haptic technologies with social and educational impact at Carnegie Mellon University
 </subtitle><entry><title type="html">Design and Evaluation of an Open-Source Haptic Mouse for Geometry Learning</title><link href="https://shredlabcmu.github.io/open-source/haptic-mouse/" rel="alternate" type="text/html" title="Design and Evaluation of an Open-Source Haptic Mouse for Geometry Learning" /><published>2026-08-07T08:00:00-04:00</published><updated>2026-08-07T08:00:00-04:00</updated><id>https://shredlabcmu.github.io/open-source/haptic-mouse-open-source</id><content type="html" xml:base="https://shredlabcmu.github.io/open-source/haptic-mouse/">&lt;p&gt;The Haptic Mouse is an open-source, three-degree-of-freedom (3-DOF) haptic interface designed for low-cost fabrication and active exploration of 2-D digital graphics by blind and visually impaired (BVI) students. Developed to overcome barriers in STEM education, this device specifically aids in geometry instruction.&lt;/p&gt;
 
 &lt;p&gt;Through a custom 3D-printed delta parallel mechanism, the mouse renders contours, reference points, and enclosed regions using multimodal haptic cues, such as stiffness changes and directional oscillations. It also incorporates auditory feedback (white noise) to support spatial reorientation when the user’s cursor moves away from a target.&lt;/p&gt;
@@ -71,13 +71,6 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;/img/posts/2026-08-07-haptic-mouse-opensource/Haptic_Prototype.jpeg&quot; /&gt;
-    &lt;figcaption&gt;
-    The assembled Haptic Mouse prototype.
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
 
 &lt;h3 id=&quot;contact&quot;&gt;Contact&lt;/h3&gt;
 &lt;ul&gt;
