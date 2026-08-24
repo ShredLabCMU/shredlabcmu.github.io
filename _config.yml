@@ -32,10 +32,14 @@ exclude:
   - clean-theme.gemspec
   - Gemfile.lock
   - node_modules
+  - vendor
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  # GIMP working files - source art, not for publishing
+  - "*.xcf"
+  - "**/*.xcf"
 
 livereload: true
 
@@ -78,5 +82,3 @@ scholar:
   style: simple-ieee.csl
   bibliography_list_tag: "ul.no-bullet"
   bibliography_template: bibtemplate
-
-exclude: [vendor]

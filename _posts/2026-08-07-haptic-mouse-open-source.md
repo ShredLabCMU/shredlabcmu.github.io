@@ -53,13 +53,6 @@ The Haptic Mouse is open-source. The complete Bill of Materials (BOM) and the cu
 | Mouse top | [Mouse_Top.STL](/assets/open-source/haptic-mouse/stl/Mouse_Top.STL) |
 | Tracking pen case | [Pen_case.STL](/assets/open-source/haptic-mouse/stl/Pen_case.STL) |
 
-<figure>
-    <img src="/img/posts/2026-08-07-haptic-mouse-opensource/Haptic_Prototype.jpeg" />
-    <figcaption>
-    The assembled Haptic Mouse prototype.
-    </figcaption>
-</figure>
-
 ### Contact
 - [Woongseok (Michael) Han](/team/michael/) [woongseh@andrew.cmu.edu](mailto:woongseh@andrew.cmu.edu) 
 - [Melisa Orta Martinez](/team/melisa/) - [mortamar@andrew.cmu.edu](mailto:mortamar@andrew.cmu.edu)

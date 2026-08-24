@@ -1,14 +1,14 @@
 ---
 title: Annika Srinivasan
-subtitle: Undergrad
-job_title: Research Assistant, RISS '25
-category: previous_visitor
+subtitle: Ph.D. Student
+job_title: Ph.D. Student
+category: phd_student
 layout: team_member_personal_page
 image: /img/team/Annika.png
 link-new-tab: true
 ---
 
-My name is Annika Srinivasan. I am pursuing my Bachelor of Science in Mechanical Engineering at the University of Illinois Urbana-Champaign. My research interests include medical applications of robotics and engineering. I am a part of Carnegie Mellon's Robotics Institute Summer Scholars 2025 cohort. I will be working with Iqui on a haptic interface to teleoperate a robot hand; this system will be used as a educational kit to teach students about robotics and dexterity.
+My name is Annika Srinivasan. I am a PhD student at the Robotics Institute. I have a Bachelor of Science in Mechanical Engineering from the University of Illinois Urbana-Champaign. My research interests include medical applications of robotics and engineering. I was part of Carnegie Mellon's Robotics Institute Summer Scholars 2025 cohort.
 
 **Email**: [annikasr@andrew.cmu.edu](mailto:annikasr@andrew.cmu.edu)
 
